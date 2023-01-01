@@ -40,6 +40,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: '所有的日記',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
