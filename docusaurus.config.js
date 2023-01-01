@@ -62,19 +62,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/all',
+            docId: '/category/報告專案',
             position: 'left',
             label: '課程檔案',
           },
           {
             type: 'doc',
-            docId: '/category/yunnet',
+            docId: '/category/雲科網管維基',
             position: 'left',
             label: '雲科網管',
           },
           {
             type: 'doc',
-            docId: '/category/translation',
+            docId: '/category/翻譯作品',
             position: 'left',
             label: '我的翻譯作品',
           },
