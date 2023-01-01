@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '歡迎',
   tagline: '這是我的維基',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wiki.brid.gq',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,7 +62,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '/category/all',
             position: 'left',
             label: '課程檔案',
           },
