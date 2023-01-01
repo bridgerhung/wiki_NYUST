@@ -15,7 +15,10 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/intro">
+          <Link
+            className="button button--secondary button--lg"
+            to="category/all"
+          >
             點我進入文檔頁面
           </Link>
         </div>
