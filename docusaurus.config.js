@@ -64,7 +64,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '課程檔案',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
