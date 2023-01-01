@@ -10,7 +10,7 @@ Excel
 ## Power BI
 
 ## [PowerBI 線上瀏覽](https://brid.gq/p)
-## [PowerBI 下載](https://brid.gq/p-f)
+## [pbix 下載](https://brid.gq/p-f)
 
 ## [PPT 下載](https://brid.gq/ex)
 
