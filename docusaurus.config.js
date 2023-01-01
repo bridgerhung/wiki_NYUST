@@ -40,6 +40,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: '所有的日記',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -62,9 +64,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/all',
+            docId: '/category/報告專案',
             position: 'left',
             label: '課程檔案',
+          },
+          {
+            type: 'doc',
+            docId: '/category/雲科網管維基',
+            position: 'left',
+            label: '雲科網管',
+          },
+          {
+            type: 'doc',
+            docId: '/category/翻譯作品',
+            position: 'left',
+            label: '我的翻譯作品',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
