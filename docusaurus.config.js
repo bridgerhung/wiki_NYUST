@@ -66,6 +66,18 @@ const config = {
             position: 'left',
             label: '課程檔案',
           },
+          {
+            type: 'doc',
+            docId: '/category/yunnet',
+            position: 'left',
+            label: '雲科網管',
+          },
+          {
+            type: 'doc',
+            docId: '/category/translation',
+            position: 'left',
+            label: '我的翻譯作品',
+          },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
