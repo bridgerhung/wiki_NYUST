@@ -70,12 +70,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '/category/雲科網管維基',
-            position: 'left',
-            label: '雲科網管',
-          },
-          {
-            type: 'doc',
             docId: '/category/翻譯作品',
             position: 'left',
             label: '我的翻譯作品',
