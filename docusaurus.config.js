@@ -47,13 +47,17 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          
         },
+
       }),
     ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    
+    
     ({
       navbar: {
         title: `Bridger's wiki `,
@@ -75,8 +79,10 @@ const config = {
             label: '我的翻譯作品',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          
         ],
       },
+      
       footer: {
         style: 'dark',
 
@@ -86,6 +92,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
     }),
 };
 
