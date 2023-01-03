@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: `Bridger's Wiki`,
+  title: "Bridger's Wiki",
   tagline: '這是我的維基',
   url: 'https://wiki.brid.gq',
   baseUrl: '/',
