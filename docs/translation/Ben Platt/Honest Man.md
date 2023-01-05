@@ -13,7 +13,7 @@ Updated: June 26, 2022 10:24 PM
 歌手: Ben Platt
 
 [Verse 1]
-There's something about you in the moonlight  
+There's something about you in the moonlight   
 我僅在夜晚與你相見  
 But your eyes go so well with the day  
 但我和你在太陽下如此般配  
