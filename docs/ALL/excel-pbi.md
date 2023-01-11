@@ -13,9 +13,9 @@ slug: ex
 ### [PowerBI 線上瀏覽](https://brid.gq/p)
 
 ### [pbix 下載](https://brid.gq/p-f)
-[備援](./國民年金.pbix)
+[備援](https://fromsmash.com/CT5ui2darZ-dt)
 ### [PPT 下載](https://brid.gq/ex)
-[備援](./期末excel報告.pptx)
+[備援](https://fromsmash.com/CT5ui2darZ-dt)
 ### [PPT 修改](https://brid.gq/finalppt)
 
 ---
