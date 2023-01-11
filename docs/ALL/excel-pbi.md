@@ -26,4 +26,5 @@ sidebar_position: 1
 
 ## [高齡人口占比趨勢\_link](https://pop-proj.ndc.gov.tw/chart.aspx?c=10&uid=66&pid=60)
 
-[![Alt Text](/path/to/image.jpg "Image Title (optional)")](http://example.com/ "Link Title (optional)")
+[![Alt Text](2023-01-11_12-12.png "生育率新低")](https://technews.tw/2023/01/10/population/ "
+"台灣去年又「生不如死」，新生兒人口數 13.8 萬再創歷史新低")  
