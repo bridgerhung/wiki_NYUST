@@ -63,7 +63,7 @@ const config = {
         title: `Bridger's wiki `,
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/me.webp',
         },
         items: [
           {
