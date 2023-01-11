@@ -1,6 +1,5 @@
 ---
 title: 資料科學期末報告
-description: 資料科學期末報告
 sidebar_position: 2
 slug: ex
 ---
