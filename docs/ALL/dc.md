@@ -12,7 +12,7 @@ description: ChatGPT 串接 DC
 ## Docker 作為解決方案
 :::warning
 既然是以python 作為基底  
-python 依賴到件有import到 任一docker container 嗎? 
+python 依賴套件有import到任一docker container 嗎? 
 :::
 [**可以先試試看這個repo**](https://github.com/Zero6992/chatGPT-discord-bot)
 :::note
