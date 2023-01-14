@@ -35,9 +35,11 @@ node.js 為依賴套件
 npm 也是
 :::
 ### Youtube 影片1
-![](https://www.youtube.com/embed/roMykVsig-A)  
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/roMykVsig-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 [使用 Node.js 構建 GPT-3 Discord 聊天機器人](https://www.twilio.com/blog/build-gpt-3-discord-chatbot-node-js)
 
 -----
 ## GPT-3串接LINE
-![](https://www.youtube.com/embed/uHsCou1AfEU)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uHsCou1AfEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
