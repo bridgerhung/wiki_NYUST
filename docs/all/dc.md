@@ -1,6 +1,6 @@
 ---
 title: ChatGPT on Discord
-sidebar_position: 2
+sidebar_position: 3
 slug: dc
 description: ChatGPT 串接 DC
 ---
