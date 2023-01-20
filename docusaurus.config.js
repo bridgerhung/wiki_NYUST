@@ -38,13 +38,10 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-        blog: {
-          showReadingTime: true,
-          blogSidebarTitle: '所有的日記',
-          blogSidebarCount: 'ALL',
+        blog: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-        },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
           
@@ -72,13 +69,6 @@ const config = {
             position: 'left',
             label: '課程檔案',
           },
-          {
-            type: 'doc',
-            docId: '/category/翻譯作品',
-            position: 'left',
-            label: '我的翻譯作品',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
           
         ],
       },
