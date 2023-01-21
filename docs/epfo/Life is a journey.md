@@ -1,6 +1,6 @@
 ---
 title: Life is a journey
-sidebar_position: 2
+sidebar_position: 1
 slug: life
 ---
 :::info
