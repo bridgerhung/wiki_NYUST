@@ -9,4 +9,4 @@ description: 人生到底是甚麼勒?
 [聯絡方式 s811146@stu.chsc.tw](mailto:s811146@stu.chsc.tw)
 :::
 ## 簡報
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpbUaX9zhV5yGEkia-wZldttvb6R-UFWxO2ZP8eXciJ4jjXLV823rsNKKPSG5Adk-RYflskqC5YUey/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="350%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpbUaX9zhV5yGEkia-wZldttvb6R-UFWxO2ZP8eXciJ4jjXLV823rsNKKPSG5Adk-RYflskqC5YUey/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="350%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
