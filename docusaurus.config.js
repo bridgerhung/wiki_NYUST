@@ -65,13 +65,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/報告專案',
+            docId: 'all/文學與創新-創意實踐/文學',
             position: 'left',
             label: '課程檔案',
           },
           {
             type: 'doc',
-            docId: '/category/chsc-演講',
+            docId: 'chsc/intro',
             position: 'left',
             label: '彰商返校演講',
           }
