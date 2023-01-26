@@ -73,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'chsc/intro',
             position: 'left',
-            label: '彰商返校演講',
+            label: '二階歷程檔案',
           }
           
         ],

@@ -18,7 +18,7 @@ const sidebars = {
   chsc: [
     {
       type: 'category',
-      label: 'chsc',
+      label: '二階歷程檔案',
       link: {
         type: 'doc',
         id: 'chsc/intro',
@@ -28,8 +28,7 @@ const sidebars = {
         'chsc/sum',
         'chsc/life',
         'chsc/官方資料',
-        'chsc/epfo',
-        'chsc/官方資料'
+        'chsc/epfo'
       ],
     },
   ],
