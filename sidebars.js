@@ -27,8 +27,9 @@ const sidebars = {
       items: [
         'chsc/sum',
         'chsc/life',
-        'chsc/官方資料',
-        'chsc/epfo'
+        'chsc/epfo',
+        'chsc/備審資料示範',
+        'chsc/官方資料'
       ],
     },
   ],
