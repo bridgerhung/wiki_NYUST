@@ -50,7 +50,6 @@ const config = {
           trackingID: 'G-7P0XZ2SGPX',
           anonymizeIP: false,
         },
-        
 
       }),
     ],
