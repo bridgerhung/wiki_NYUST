@@ -84,6 +84,12 @@ const config = {
             docId: '/category/書籍介紹',
             position: 'left',
             label: '書籍介紹',
+          },
+          {
+            type: 'doc',
+            docId: '/category/歐美歌曲翻譯',
+            position: 'left',
+            label: '歐美歌曲翻譯',
           }
           
         ],
