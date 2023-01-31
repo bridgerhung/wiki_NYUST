@@ -35,7 +35,7 @@ const sidebars = {
     {
       type: 'link',
       label: '成功的反思', // The link label
-      href: '/all/suc', // The internal path
+      href: '/book/suc', // The internal path
     },
   ],
 };
