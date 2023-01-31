@@ -67,6 +67,11 @@ const sidebars = {
       label: '附加-成功的反思', // The link label
       href: '/book/suc', // The internal path
     },
+    {
+      type: 'link',
+      label: '附加-大學分組作業怎麼辦', // The link label
+      href: '/book/inspir', // The internal path
+    },
   ],
 };
 
