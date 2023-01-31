@@ -64,7 +64,7 @@ const sidebars = {
     },
     {
       type: 'link',
-      label: '成功的反思', // The link label
+      label: '附加-成功的反思', // The link label
       href: '/book/suc', // The internal path
     },
   ],
