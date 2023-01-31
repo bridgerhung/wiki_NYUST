@@ -69,7 +69,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'all/文學與創新-創意實踐/文學',
+            docId: '/category/課程資料',
             position: 'left',
             label: '課程檔案',
           },
