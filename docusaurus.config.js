@@ -92,7 +92,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      
+      algolia: {
+        appId: '5S4I7NT90Z',
+        apiKey: 'b5ddefaca62917d1e710774fdab76ded',
+        indexName: 'brid',
+      },
     }),
 };
 
