@@ -78,6 +78,12 @@ const config = {
             docId: 'chsc/intro',
             position: 'left',
             label: '二階歷程檔案',
+          },
+          {
+            type: 'doc',
+            docId: '/category/書籍介紹',
+            position: 'left',
+            label: '書籍介紹',
           }
           
         ],
@@ -86,7 +92,7 @@ const config = {
       footer: {
         style: 'dark',
 
-        copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
+        copyright: `© ${new Date().getFullYear()} Bridger Hung`,
       },
       prism: {
         theme: lightCodeTheme,
