@@ -32,7 +32,7 @@ const sidebars = {
   translate: [
     {
       type: 'category',
-      label: '歐美音樂音樂翻譯',
+      label: '歐美歌曲翻譯',
       link: {
         type: 'generated-index',
         title: '歐美音樂音樂翻譯',
