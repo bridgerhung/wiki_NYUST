@@ -2,5 +2,10 @@
   "position": 3,
   "label": "Speak Now",
   "collapsible": true,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Speak Now",
+    "description": "愛的告白 專輯 鄉村音樂影片翻譯系列"
+  }
 }
