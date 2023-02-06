@@ -1,0 +1,10 @@
+{
+  "position": 10,
+  "label": "Lady Gaga",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Lady Gaga"
+  }
+}

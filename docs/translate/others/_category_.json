@@ -1,0 +1,10 @@
+{
+  "position": 10,
+  "label": "others",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "其他分類"
+  }
+}

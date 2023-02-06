@@ -1,0 +1,11 @@
+{
+  "position": 10,
+  "label": "Hamilton",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Hamilton",
+    "description": "Hamilton 百老匯音樂劇"
+  }
+}
