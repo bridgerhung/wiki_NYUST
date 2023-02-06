@@ -7,10 +7,7 @@ tags:
   - Taylor Swift
 ---
   
-Album: Tick Tick... Boom!  
-Created: May 1, 2022 10:27 PM  
-Updated: May 1, 2022 10:27 PM  
-歌手: Taylor Swift  
+
   
 [Verse 1]  
 I'd never gone with the wind, just let it flow  
