@@ -1,5 +1,3 @@
-# I wish you were gay
-
 ---
 title: I wish you were gay
 slug: I wish you were gay

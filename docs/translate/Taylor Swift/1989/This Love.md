@@ -1,5 +1,3 @@
-# This Love這款愛 - Taylor Swift
-
 ---
 title: This Love
 slug: This Love

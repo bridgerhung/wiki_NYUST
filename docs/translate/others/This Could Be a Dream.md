@@ -1,4 +1,3 @@
-# This Could Be a Dream  
 ---
 title: This Could Be a Dream - AURORA
 slug: This Could Be a Dream  
