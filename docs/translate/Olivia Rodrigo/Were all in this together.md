@@ -1,3 +1,5 @@
+# We're all in this together
+
 ---
 title: We're all in this together
 slug: We're all in this together

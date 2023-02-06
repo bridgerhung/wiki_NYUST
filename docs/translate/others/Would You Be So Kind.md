@@ -1,6 +1,6 @@
 ---
 title: Would You Be So Kind - dodie
-slug: Would You Be So Kind 
+slug: Would You Be So Kind
 sidebar_position: 5
 description: Would You Be So Kind?
 tags:
