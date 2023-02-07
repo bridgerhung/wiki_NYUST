@@ -8,8 +8,10 @@ tags:
   - Fearless
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pb-K2tXWK4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pb-K2tXWK4w" title="YouTube video player" frameborder="0"allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
+
+## 翻譯
 [Verse 1]
 
 You take a deep breath and you walk through the doors

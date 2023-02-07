@@ -9,7 +9,8 @@ tags:
   
   <iframe width="100%" height="315" src="https://www.youtube.com/embed/B0p4Lv0t124" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  
+
+## 翻譯
 [Verse 1]  
 I'd never gone with the wind, just let it flow  
 我未任隨著風流逝，僅是讓它輕輕拂過  

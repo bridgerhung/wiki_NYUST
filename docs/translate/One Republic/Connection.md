@@ -10,7 +10,7 @@ tags:
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iJUM11goXAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
+## 翻譯
 These days my waves get lost in the oceans
 
 每天我打出的波浪，都消失在海中

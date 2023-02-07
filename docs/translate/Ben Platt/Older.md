@@ -20,6 +20,7 @@ tags:
 到底是什麼人生經驗可以讓他寫下這麼深刻的歌詞？  
 他善用簡單的旋律和伴奏，用清亮和飽滿的共鳴去堆砌情感~ 一佳曲  
   
+## 翻譯
 [Verse 1]  
 I was walking down 57th Street towards Park  
 我走在街道，前往公園  

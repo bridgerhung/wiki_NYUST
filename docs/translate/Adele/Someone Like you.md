@@ -12,6 +12,8 @@ tags:
 
 >「像你一樣的人」「一個喜歡你的人」
 
+
+## 翻譯
 I heard that you're settled down
 
 我聽說你有歸屬了

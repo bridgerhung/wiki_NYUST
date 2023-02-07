@@ -10,6 +10,8 @@ tags:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FuXNumBwDOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## 翻譯
 I promise that you’ll never find another like me  
 我保證你將不會再找到另一個和我一樣的人  
 I know that I’m a handful, baby, uh  

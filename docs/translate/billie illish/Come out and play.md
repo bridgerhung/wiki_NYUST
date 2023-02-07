@@ -9,7 +9,9 @@ tags:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xXFdnHiGwos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Intro]  
+
+## 翻譯
+[Intro]  
 Hmm-mm  
 [Verse 1]  
 Wake up and smell the coffee  

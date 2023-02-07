@@ -10,6 +10,7 @@ tags:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UCKbw9OJIcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
+## 翻譯
 [Verse 1]  
 Most days, I wake up with a pit in my chest  
 許多日子裡，起床時總是心頭沉沉的  
