@@ -1,7 +1,7 @@
 ---
 title: Someone Like you
 slug: Someone Like you
-sidebar_position: 5
+sidebar_position: 1
 description: Someone Like you
 tags:
   - Adele

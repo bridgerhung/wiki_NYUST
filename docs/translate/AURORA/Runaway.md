@@ -2,7 +2,7 @@
 title: Runaway - AURORA
 slug: Runaway
 sidebar_position: 5
-description: Rainbow
+description: Runaway
 tags:
   - Other
   - AURORA

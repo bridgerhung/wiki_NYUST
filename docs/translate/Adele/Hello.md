@@ -1,7 +1,7 @@
 ---
 title: Hello
 slug: Hello
-sidebar_position: 1
+sidebar_position: 2
 description: Hello
 tags:
   - Adele

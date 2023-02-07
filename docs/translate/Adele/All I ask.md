@@ -1,8 +1,8 @@
 ---
 title: All I ask
 slug: All I ask
-sidebar_position: 1
-description: Ease My Mind
+sidebar_position: 3
+description: All I ask
 tags:
   - Adele
   - 25
