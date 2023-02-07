@@ -1,7 +1,7 @@
 ---
 title: The Joke - Ben Platt
 slug: the joke
-sidebar_position: 2
+sidebar_position: 16
 description: 最後笑話的是他們
 tags:
   - Ben Platt

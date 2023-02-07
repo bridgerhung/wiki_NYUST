@@ -1,7 +1,7 @@
 ---
 title: RAIN - Ben Platt
 slug: RAIN
-sidebar_position: 5
+sidebar_position: 14
 description: 在雨中熱舞吧
 tags:
   - Ben Platt

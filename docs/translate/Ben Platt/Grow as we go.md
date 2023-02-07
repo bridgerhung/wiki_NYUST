@@ -1,7 +1,7 @@
 ---
 title: Grow as we go - Ben Platt
 slug: Grow as we go
-sidebar_position: 5
+sidebar_position: 4
 description: 一同成長
 tags:
   - Ben Platt

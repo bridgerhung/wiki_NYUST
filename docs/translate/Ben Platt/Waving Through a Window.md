@@ -1,7 +1,7 @@
 ---
 title: Waving Through a Window  - Ben Platt
 slug: Waving Through a Window 
-sidebar_position: 3
+sidebar_position: 18
 description: Waving Through a Window 
 tags:
   - Ben Platt

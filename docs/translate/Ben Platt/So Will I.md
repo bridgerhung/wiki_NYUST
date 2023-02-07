@@ -1,7 +1,7 @@
 ---
 title: So Will I
 slug: So Will I
-sidebar_position: 2
+sidebar_position: 13
 description: So Will I
 tags:
   - Ben Platt
