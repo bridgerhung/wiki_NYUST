@@ -32,7 +32,36 @@ const sidebars = {
   translate: [
     {
       type: 'category',
+      label: '最喜愛的歌曲',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '最喜愛的歌曲',
+        description:
+          "最喜愛的歌曲",
+    },
+      items: [
+
+        'translate/Taylor Swift/1989/Out of the woods',
+        'translate/Taylor Swift/Lover/Cornelia Street',
+        'translate/Taylor Swift/Red/All Too Well',
+        'translate/Taylor Swift/1989/New Romantics',
+        'translate/Adele/Someone Like you',
+        'translate/Ben Platt/Ease My Mind',
+        'translate/Taylor Swift/Fearless/Fifteen',
+        'translate/Taylor Swift/Lover/Death by thousand cuts',
+        'translate/Ben Platt/Grow as we go',
+        'translate/Ben Platt/Honest Man'
+
+        
+      ],
+    },
+    {
+      type: 'category',
       label: '歐美歌曲翻譯',
+      collapsible: true,
+      collapsed: true,
       link: {
         type: 'generated-index',
         title: '歐美音樂音樂翻譯',
