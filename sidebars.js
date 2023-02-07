@@ -42,17 +42,21 @@ const sidebars = {
           "最喜愛的歌曲",
     },
       items: [
-
+        'translate/Taylor Swift/1989/New Romantics',
+        'translate/Taylor Swift/Red/All Too Well',
         'translate/Taylor Swift/1989/Out of the woods',
         'translate/Taylor Swift/Lover/Cornelia Street',
-        'translate/Taylor Swift/Red/All Too Well',
-        'translate/Taylor Swift/1989/New Romantics',
         'translate/Adele/Someone Like you',
         'translate/Ben Platt/Ease My Mind',
         'translate/Taylor Swift/Fearless/Fifteen',
         'translate/Taylor Swift/Lover/Death by thousand cuts',
         'translate/Ben Platt/Grow as we go',
-        'translate/Ben Platt/Honest Man'
+        'translate/Ben Platt/Honest Man',
+        {
+          type: 'link',
+          label: 'Getaway Car - Taylor Swift',
+          href: 'https://www.youtube.com/watch?v=EW1ncv-jZNk', 
+        },
 
         
       ],
