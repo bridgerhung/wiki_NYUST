@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '/category/歐美歌曲翻譯',
+            docId: '/category/最喜愛的歌曲',
             position: 'left',
             label: '歐美歌曲翻譯',
           }
