@@ -8,6 +8,9 @@ tags:
     - LOVER
 ---
 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8HxbqAsppwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I blew things out of proportion, now you're blue  
 我把事情講的嚴重了，你覺得好無辜  
 Put you in jail for something you didn’t do  

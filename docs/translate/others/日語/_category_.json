@@ -1,0 +1,10 @@
+{
+  "position": 11,
+  "label": "日語",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "日語"
+  }
+}

@@ -8,7 +8,7 @@ tags:
   - Sing To Me Instead(DLX)
 ---
 
-[Ben Platt - Older [Official Video]](https://youtu.be/y_sADbvPmzE)  
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/y_sADbvPmzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 我在聽這首歌時，總是會想到1900講的  
   

@@ -8,11 +8,9 @@ tags:
   - Hamilton
 ---
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TKpJjdKcjeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
-Album: Tick Tick... Boom!  
-Created: May 1, 2022 10:27 PM  
-Updated: May 1, 2022 10:27 PM  
-歌手: Lin-Manuel Miranda  
+
   
 [BURR]  
 Dear Theodosia, what to say to you?  

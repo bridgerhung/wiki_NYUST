@@ -11,7 +11,11 @@ tags:
 我特別喜歡這種，既有磁性，又非常溫柔的聲線
 
 不一定非常有感染力，但是 ，It can cure.
+
 :::
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Xx_QNIKdqhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 [Verse 1]

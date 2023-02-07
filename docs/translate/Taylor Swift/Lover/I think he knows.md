@@ -1,12 +1,14 @@
 ---
 title: I think he knows
 slug: I think he knows
-sidebar_position: 5
+sidebar_position: 6
 description: 心電感應
 tags:
   - Taylor Swift
   - LOVER
 ---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2d1wKn-oJnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Verse 1]
 
@@ -26,19 +28,19 @@ Go there every night
 
 但他的氣息讓我流連忘返
 
-[I think he knows](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-18895601)
+[I think he knows](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-1889100%1)
 
 他心裡都懂
 
-[His hands around a cold glass](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-18895601)
+[His hands around a cold glass](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-1889100%1)
 
 他手握著玻璃杯
 
-[Make me wanna know that](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-18895601)
+[Make me wanna know that](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-1889100%1)
 
 刻意想讓我看到
 
-[Body like it's mine](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-18895601)
+[Body like it's mine](https://genius.com/Taylor-swift-i-think-he-knows-lyrics#note-1889100%1)
 
 讓我覺得好像擁有
 
