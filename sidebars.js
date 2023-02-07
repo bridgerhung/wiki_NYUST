@@ -114,7 +114,8 @@ const sidebars = {
         'chsc/life',
         'chsc/epfo',
         'chsc/備審資料示範',
-        'chsc/官方資料'
+        'chsc/官方資料',
+        'chsc/指定項目甄試筆記'
       ],
     },
     {
