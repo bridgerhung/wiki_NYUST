@@ -1,7 +1,7 @@
 ---
 title: Traitor
 slug: Traitor
-sidebar_position: 3
+sidebar_position: 2
 description: Traitor
 tags:
   - Olivia Rodrigo

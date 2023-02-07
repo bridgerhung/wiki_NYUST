@@ -1,7 +1,7 @@
 ---
 title: Mean
 slug: Mean
-sidebar_position: 2
+sidebar_position: 6
 description: Mean
 tags:
   - Taylor Swift

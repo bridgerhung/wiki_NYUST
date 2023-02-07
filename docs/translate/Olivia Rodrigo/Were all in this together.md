@@ -1,7 +1,7 @@
 ---
 title: We're all in this together
 slug: We're all in this together
-sidebar_position: 4
+sidebar_position: 5
 description: We're all in this together
 tags:
   - Olivia Rodrigo

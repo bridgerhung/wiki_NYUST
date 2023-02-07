@@ -1,7 +1,7 @@
 ---
 title: Louder Than Words
 slug: Louder Than Words 
-sidebar_position: 1
+sidebar_position: 3
 description: Louder Than Words 
 tags:
   - Tick Tick... Boom!

@@ -1,7 +1,7 @@
 ---
 title: Enchanted
 slug: Enchanted
-sidebar_position: 5
+sidebar_position: 9
 description: Enchanted
 tags:
   - Taylor Swift

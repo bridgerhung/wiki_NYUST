@@ -1,7 +1,7 @@
 ---
 title: Love Story
 slug: Love Story
-sidebar_position: 1
+sidebar_position: 3
 description: 愛情故事
 tags:
   - Taylor Swift

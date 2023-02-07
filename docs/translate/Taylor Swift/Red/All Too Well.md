@@ -1,7 +1,7 @@
 ---
 title: All Too Well
 slug: All Too Well
-sidebar_position: 1
+sidebar_position: 5
 description: 回憶太清晰
 tags:
   - Taylor Swift
