@@ -9,7 +9,8 @@ tags:
 ---
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y_sADbvPmzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+
+
 我在聽這首歌時，總是會想到1900講的  
   
 >
@@ -20,6 +21,7 @@ tags:
 到底是什麼人生經驗可以讓他寫下這麼深刻的歌詞？  
 他善用簡單的旋律和伴奏，用清亮和飽滿的共鳴去堆砌情感~ 一佳曲  
   
+
 ## 翻譯
 [Verse 1]  
 I was walking down 57th Street towards Park  
