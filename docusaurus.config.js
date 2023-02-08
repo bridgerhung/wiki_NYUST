@@ -35,6 +35,8 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -110,6 +112,10 @@ const config = {
         indexName: 'brid',
         contextualSearch: true,
       },
+      announcementBar: {
+        id: 'announcementBar-2', // Increment on change
+        content: `🎇2/7日新增翻譯作品以及書籍、備審相關資料更新🎇`,
+      }
     }),
 };
 
