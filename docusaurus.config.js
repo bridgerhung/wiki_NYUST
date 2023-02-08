@@ -89,10 +89,17 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '/category/最喜愛的歌曲',
+            docId: '/category/歐美歌曲翻譯',
             position: 'left',
             label: '歐美歌曲翻譯',
+          },
+          {
+            type: 'doc',
+            docId: '/translate/love',
+            position: 'left',
+            label: '最喜愛的歌曲',
           }
+
           
         ],
       },
