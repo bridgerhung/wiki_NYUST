@@ -14,7 +14,7 @@ import DocCardList from '@theme/DocCardList';
 
 ---
 
-## Taylor Swift 泰勒斯
+## [Taylor Swift 泰勒斯](/category/taylor-swift)
 
 :::caution 最經典的莫過於 1989 和 Red
 :::
@@ -75,14 +75,14 @@ import DocCardList from '@theme/DocCardList';
   > 我抬頭問紅綠燈，我是否會好起來，他說我不知道。
 :::
 
-## Adele 愛黛兒
+## [Adele 愛黛兒](/category/adele)
 
 ### [Someone like you 像你一樣的人](/translate/Adele/Someone%20Like%20you)
 ### [All I ask 我只要](/translate/Adele/All%20I%20ask)
 :::info 聽過就知道，她的歌聲所帶來的情緒感染力。
 :::
 
-## Ben Platt 班・普拉特
+## [Ben Platt 班・普拉特](/category/ben-platt)
 
 :::info 他是百老匯最佳男主的獲獎者
 20 幾歲就憑[親愛的艾文漢森](https://www.google.com/search?q=dear+evan+hansen)就得到了  
