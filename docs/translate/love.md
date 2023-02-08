@@ -82,7 +82,7 @@ But the monsters turned out to be just trees
 ## Ben Platt 班・普拉特
 :::info 他是百老匯最佳男主的獲獎者
 20幾歲就憑[親愛的艾文漢森](https://www.google.com/search?q=dear+evan+hansen)就得到了  
-唱功了得，我稱他為男版Adele
+唱功了得，我稱他為男版Adele  
 **他也是以強而有力的歌聲來傳遞情感的人**
 :::
 
