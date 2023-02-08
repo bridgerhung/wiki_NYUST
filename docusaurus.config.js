@@ -95,7 +95,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '/translate/love',
+            docId: 'translate/love',
             position: 'left',
             label: '最喜愛的歌曲',
           }
