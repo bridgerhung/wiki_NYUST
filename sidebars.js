@@ -39,7 +39,7 @@ const sidebars = {
         type: 'generated-index',
         title: '歐美音樂音樂翻譯',
         description:
-          "興趣使然，已經翻譯歐美音樂6年了，累積了上百首作品，緩慢釋出",
+          "興趣使然，已經翻譯歐美音樂6年了，累積了上百首作品，全部上架計畫進度100%",
     },
       items: [
         {
@@ -51,6 +51,34 @@ const sidebars = {
   ],
 
   lovetranslate: [
+    {
+      type: 'category',
+      label: '最近翻譯',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '最近一年的翻譯',
+        description:
+          "最近的翻譯",
+      },
+      items: [
+        'translate/Ben Platt/the joke',
+        'translate/Taylor Swift/Evermore/its time to go',
+        'translate/Ben Platt/vienna',
+        'translate/Ben Platt/rain',
+        'translate/Ben Platt/Ease My Mind',
+        'translate/Ben Platt/Grow as we go',
+        'translate/Ben Platt/Honest Man',
+        'translate/Ben Platt/Older',
+        'translate/Ben Platt/Run Away',
+        'translate/Ben Platt/So Will I',
+        'translate/Ben Platt/Waving Through a Window',
+        'translate/Hamilton/It’s Quiet Uptown',
+        'translate/Hamilton/Dear Theodosia'
+
+      ],
+    },
     {
       type: 'category',
       label: '最喜愛的歌曲',
