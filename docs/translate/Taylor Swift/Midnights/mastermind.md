@@ -24,13 +24,13 @@ At the same time
   
 [Pre-Chorus]  
 And the touch of a hand lit the fuse  
-碰觸我的手，引燃導火索
+碰觸我的手，引燃導火索  
 Of a chain reaction of countermoves  
-一系列的化學反應，產生命運的鎖鏈
+一系列的化學反應，產生命運的鎖鏈  
 To assess the equation of you  
-為了解出屬於你的愛情方程式
+為了解出屬於你的愛情方程式  
 Checkmate, I couldn't lose  
-將軍! 我絕對不能輸
+將軍! 我絕對不能輸  
 
 [Chorus]  
 What if I told you none of it was accidental?  
