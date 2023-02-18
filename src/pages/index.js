@@ -21,6 +21,16 @@ function HomepageHeader() {
           >
             點我進入報告專案頁面
           </Link>
+          
+        </div>
+        <h1>  </h1>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/category/最近翻譯"
+          >
+            點我查看最近翻譯的歌曲
+          </Link>
         </div>
       </div>
     </header>
