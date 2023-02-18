@@ -30,6 +30,37 @@ const sidebars = {
 
 
   translate: [
+    
+    {
+      type: 'category',
+      label: '最近翻譯',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '最近一年的翻譯',
+        description:
+          "最近的翻譯",
+      },
+      items: [
+        'translate/Taylor Swift/Fearless/Bye Bye Baby',
+        'translate/Taylor Swift/Midnights/mastermind',
+        'translate/Ben Platt/the joke',
+        'translate/Taylor Swift/Evermore/its time to go',
+        'translate/Ben Platt/vienna',
+        'translate/Ben Platt/rain',
+        'translate/Ben Platt/Ease My Mind',
+        'translate/Ben Platt/Grow as we go',
+        'translate/Ben Platt/Honest Man',
+        'translate/Ben Platt/Older',
+        'translate/Ben Platt/Run Away',
+        'translate/Ben Platt/So Will I',
+        'translate/Ben Platt/Waving Through a Window',
+        'translate/Hamilton/It’s Quiet Uptown',
+        'translate/Hamilton/Dear Theodosia'
+
+        ],
+    },
     {
       type: 'category',
       label: '歐美歌曲翻譯',
@@ -47,7 +78,8 @@ const sidebars = {
           dirName: 'translate',
         },
       ],
-    },
+    }
+
   ],
 
   lovetranslate: [
@@ -78,37 +110,7 @@ const sidebars = {
         },
       ],
     },
-    {
-      type: 'category',
-      label: '最近翻譯',
-      collapsible: true,
-      collapsed: true,
-      link: {
-        type: 'generated-index',
-        title: '最近一年的翻譯',
-        description:
-          "最近的翻譯",
-      },
-      items: [
-        'translate/Taylor Swift/Fearless/Bye Bye Baby',
-        'translate/Taylor Swift/Midnights/mastermind',
-        'translate/Ben Platt/the joke',
-        'translate/Taylor Swift/Evermore/its time to go',
-        'translate/Ben Platt/vienna',
-        'translate/Ben Platt/rain',
-        'translate/Ben Platt/Ease My Mind',
-        'translate/Ben Platt/Grow as we go',
-        'translate/Ben Platt/Honest Man',
-        'translate/Ben Platt/Older',
-        'translate/Ben Platt/Run Away',
-        'translate/Ben Platt/So Will I',
-        'translate/Ben Platt/Waving Through a Window',
-        'translate/Hamilton/It’s Quiet Uptown',
-        'translate/Hamilton/Dear Theodosia'
 
-      ],
-    },
-    
   ],
 
   book: [

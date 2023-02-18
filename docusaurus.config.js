@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Bridger's Wiki",
-  tagline: '這是我的維基',
+  tagline: '課程、學習歷程、翻譯、閱讀心得',
   url: 'https://wiki.brid.gq',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -121,7 +121,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
-        content: `🎇2/7日新增翻譯作品以及書籍、備審相關資料更新🎇`,
+        content: `🎇2/18日新增翻譯作品以及書籍、備審相關資料更新🎇`,
       }
     }),
 };
