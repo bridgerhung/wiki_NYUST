@@ -1,7 +1,7 @@
 ---
 title: Breathe
 slug: Breathe
-sidebar_position: 1
+sidebar_position: 7
 description: Breathe
 tags:
   - Taylor Swift
