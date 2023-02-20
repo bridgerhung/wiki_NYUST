@@ -7,8 +7,9 @@ tags:
   - Adele
   - 30
 ---
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/axUh_2fTLe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+## 翻譯
 [Verse 1]  
 How can one become so bounded by choices that somebody else makes?  
 為甚麼人總是會受到他人的決定所影響?  
