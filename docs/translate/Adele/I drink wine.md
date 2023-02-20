@@ -16,7 +16,7 @@ How can one become so bounded by choices that somebody else makes?
 How come we've both become a version of a person we don't even like?  
 我甚麼我們都成為我們不喜歡的樣子?  
 We're in love with the world, but the world just wants to bring us down  
-我們愛這個世界，屆屆卻將我們往下拖  
+我們愛這個世界，卻總是將我們往下拖  
 By puttin' ideas in our heads that corrupt our hearts somehow  
 把別人的想法硬塞進我們的腦袋，讓我們的心腐爛沒有知覺  
 When I was a child, every single thing could blow my mind  
@@ -52,7 +52,7 @@ Why am I obsessin' about the things I can't control?
 Why am I seekin' approval from people I don't even know?  
 為甚麼我總是尋覓著陌生人的認同?  
 In these crazy times, I hope to find somethin' I can cling on to  
-在狂風暴雨中，我總是想找個岩壁往上爬。
+在狂風暴雨中，我總是想找個岩壁往上爬。  
 'Cause I need some substance in my life, somethin' real, somethin' that feels true  
 因為我需要新的東西注入我的生命，一種真實的屬於我的想法。  
   
@@ -82,7 +82,7 @@ You get the brunt of it all 'cause you're all I've got left
 Oh, I hope in time (Hope in time)  
 我希望改變及時到來  
 We both will find peace of mind (We both find)  
-我們內心得以平和  
+我們的內心得以平和  
 Sometimes, the road less travelled is a road best left behind  
 有時候，少有人走過的路，最好別經過  
   
@@ -110,7 +110,7 @@ The only regret I have
 I wish that it was just at a different time  
 就是我希望我能重來過  
 A most turbulent period of my life  
-我人生中對動盪的時期
+我人生中最動盪的時期  
 Why would I put that on you?  
 為甚麼我當時要你為我負重?  
 That's just, like, a very heavy thing to have to talk about  
@@ -118,7 +118,7 @@ That's just, like, a very heavy thing to have to talk about
 But because of that period of time  
 但也是因為那個時期  
 Even though it was so much fun  
-儘管那一段時間是多棒，多迷人  
+儘管那一段時間多棒，多迷人  
 I didn't get to go on and make new memories with him  
 我最終都沒法留下他，沒辦法創造更多回憶  
 There was just memories in a big storm    
