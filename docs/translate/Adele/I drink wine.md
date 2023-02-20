@@ -76,7 +76,7 @@ Everybody wants somethin' from me, you just want me
   
 [Bridge]  
 Listen, I know how low I can go, I give as good as I get  
-聽著，我知道我能走得多低，我用盡了我的全部  
+聽著，我盡可能地壓低身子，我用盡了我的全部力氣  
 You get the brunt of it all 'cause you're all I've got left  
 你得到了我給予的一切，因為你是我唯一的歸處  
 Oh, I hope in time (Hope in time)  
