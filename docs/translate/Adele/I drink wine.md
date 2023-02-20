@@ -118,7 +118,7 @@ That's just, like, a very heavy thing to have to talk about
 But because of that period of time  
 但也是因為那個時期  
 Even though it was so much fun  
-儘管那一段時間是多棒，多迷人  
+儘管那一段時間多棒，多迷人  
 I didn't get to go on and make new memories with him  
 我最終都沒法留下他，沒辦法創造更多回憶  
 There was just memories in a big storm    
