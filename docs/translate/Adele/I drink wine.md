@@ -21,7 +21,7 @@ By puttin' ideas in our heads that corrupt our hearts somehow
 When I was a child, every single thing could blow my mind  
 當我是個孩子時，任何風吹草動，都會驚擾我的思緒  
 Soaking it all up for fun, but now I only soak up wine  
-每天沉浸在歡樂中，但現在只有我一人泡在葡萄酒中
+每天沉浸在歡樂中，但現在只有我一人泡在葡萄酒中  
 They say to play hard, you work hard, find balance in the sacrifice  
 人們說，用力的玩，用力的工作，在犧牲中找到平衡  
 And yet I don't know anybody who's truly satisfied  
@@ -121,5 +121,5 @@ Even though it was so much fun
 I didn't get to go on and make new memories with him  
 我最終都沒法留下他，沒辦法創造更多回憶  
 There was just memories in a big storm    
-最後美好回憶，只能在龍捲風裡被撕成碎片，變塵風    
+最後，美好回憶，只能在龍捲風裡被撕成碎片，變塵風    
 
