@@ -14,9 +14,9 @@ tags:
 How can one become so bounded by choices that somebody else makes?  
 為甚麼人總是會受到他人的決定所影響?  
 How come we've both become a version of a person we don't even like?  
-我甚麼我們都成為我們不喜歡的樣子?  
+為甚麼我們都成為自己不喜歡的樣子?  
 We're in love with the world, but the world just wants to bring us down  
-我們愛這個世界，卻總是將我們往下拖  
+我們愛這個世界，它卻總是將我們往下拖?  
 By puttin' ideas in our heads that corrupt our hearts somehow  
 把別人的想法硬塞進我們的腦袋，讓我們的心腐爛沒有知覺  
 When I was a child, every single thing could blow my mind  
@@ -44,13 +44,13 @@ Stop tryin' to be somebody else
 So we can love each other for free  
 我們能夠毫無條件的去愛人  
 Everybody wants somethin', you just want me  
-每一個人都想要更多，你只想要我  
+每一個人都想要更多，而你只是全然的接納我  
   
 [Verse 2]  
 Why am I obsessin' about the things I can't control?  
 我為甚麼總是被無法控制的事情所困擾?  
 Why am I seekin' approval from people I don't even know?  
-為甚麼我總是尋覓著陌生人的認同?  
+為甚麼我總是尋覓著他人的認同?  
 In these crazy times, I hope to find somethin' I can cling on to  
 在狂風暴雨中，我總是想找個岩壁往上爬。  
 'Cause I need some substance in my life, somethin' real, somethin' that feels true  
@@ -72,7 +72,7 @@ Stop tryin' to be somebody else
 Oh, I just want to love you, love you for free  
 我想愛你，自由的愛你  
 Everybody wants somethin' from me, you just want me  
-因為每個人都想從我身上拿些甚麼，而你只是接納我  
+因為每個人都想從我身上拿些甚麼，而你只是全然的接納我  
   
 [Bridge]  
 Listen, I know how low I can go, I give as good as I get  
@@ -94,7 +94,7 @@ Stop tryin' to be somebody else
 Oh, I just want to love you, love you for free, yeah  
 我只想愛你，自由的愛你  
 'Cause everybody wants somethin' from me, you just want me  
-因為每個人都想從我身上拿些甚麼，而你只是接納我  
+因為每個人都想從我身上拿些甚麼，而你只是全然的接納我  
   
 [Refrain]  
 You better believe I'm tryin' (Tryin', tryin')  
