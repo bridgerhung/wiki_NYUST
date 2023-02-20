@@ -43,6 +43,7 @@ const sidebars = {
           "最近的翻譯",
       },
       items: [
+        'translate/Adele/I drink wine',
         'translate/Taylor Swift/Fearless/Bye Bye Baby',
         'translate/Taylor Swift/Midnights/mastermind',
         'translate/Ben Platt/the joke',
