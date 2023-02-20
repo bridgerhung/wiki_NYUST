@@ -1,4 +1,6 @@
-# 雲科大網址跳轉
+---
+title: 雲科大網址跳轉
+---
 
 ## [教務系統](https://brid.gq/aaxapp)
 https://brid.gq/aaxapp
