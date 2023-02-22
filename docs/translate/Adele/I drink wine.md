@@ -7,6 +7,9 @@ tags:
   - Adele
   - 30
 ---
+:::info 你可以點擊播放後，下滑看歌詞，音樂不會中斷
+
+:::
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/axUh_2fTLe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 翻譯
