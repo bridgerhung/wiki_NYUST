@@ -44,7 +44,7 @@ Stop tryin' to be somebody else
 So we can love each other for free  
 我們能夠毫無條件的去愛人  
 Everybody wants somethin', you just want me  
-每一個人都想要更多，而你只是全然的接納我  
+每一個人都慾望無窮，而你只是全然的接納我  
   
 [Verse 2]  
 Why am I obsessin' about the things I can't control?  
