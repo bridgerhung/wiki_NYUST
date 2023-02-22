@@ -16,15 +16,15 @@ tags:
 It wasn't just like a movie  
 這不是一場電影  
 The rain didn't soak through my clothes, down to my skin  
-這場噢，並沒有浸過我的衣服，滲進我的皮膚  
+這場雨，並沒有浸過我的衣服，滲進我的皮膚  
 I'm drivin' away and I, I guess you could say  
-我駕車駛離，但我想說  
+我駕車駛離，但我想說：  
 This is the last time I'll drive this way again  
 但這是我最後一次，我走這條路了。  
 Lost in the gray and I try to grab at the fray  
-我的生活迷失在灰色，磨破我的手，嘗試去抓住甚麼。  
+我的生活迷失在灰色。我嘗試去抓住，甚麼我磨破我的手。  
 'Cause I, I still love you but I can't  
-因為，我愛你，但是我必須離開  
+雖然，我愛你，但是我必須離開。  
   
 [Chorus]  
 Bye bye to everything I thought was on my side  
@@ -46,7 +46,7 @@ Bye bye, baby
 The picture frame is empty  
 擺在桌上的，是沒有相片的相框  
 On the dresser, vacant just like me  
-我就像是沒人用的梳妝台  
+我就像是沒人用的梳妝台。  
 I see your writing on the dash  
 我看到你在儀表板上寫字  
 Then back to your hesitation  
