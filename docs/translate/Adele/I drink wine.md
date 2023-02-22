@@ -12,7 +12,7 @@ tags:
 ## 翻譯
 [Verse 1]  
 How can one become so bounded by choices that somebody else makes?  
-為甚麼人總是會受到他人的決定所影響?  
+為甚麼人總是會受到他人的決定所束縛?  
 How come we've both become a version of a person we don't even like?  
 為甚麼我們都成為自己不喜歡的樣子?  
 We're in love with the world, but the world just wants to bring us down  
