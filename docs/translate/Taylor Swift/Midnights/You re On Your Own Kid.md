@@ -66,7 +66,7 @@ I'll run away
 From sprinkler splashes to fireplace ashes  
 水柱噴湧，又蒸發成水氣；壁爐的柴火，又成了灰燼。   
 I called a taxi to take me there  
-我讓計程車讓我離開  
+我讓計程車載我離開  
 I search the party of better bodies  
 我在派對裡，找尋其他青春洋溢的肉體  
 Just to learn that my dreams aren't rare  
