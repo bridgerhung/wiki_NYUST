@@ -55,9 +55,9 @@ And I guess we fell apart in the usual way
 And the story's got dust on every page  
 篇篇回憶都沾染上散落的塵土  
 But sometimes, I wonder how you think about it now  
-但，我時常想，你怎麼看待呢?    
+但，我時常想，你現在怎麼想呢?  
 And I see your face in every crowd  
-而在人海中總是看到你的臉龐  
+而我人海中總是看到你的臉龐  
 
 [Chorus]  
 And darling, it was good  
