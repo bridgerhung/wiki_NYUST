@@ -22,9 +22,9 @@ I'm drivin' away and I, I guess you could say
 This is the last time I'll drive this way again  
 但這是我最後一次，我走這條路了。  
 Lost in the gray and I try to grab at the fray  
-我的生活迷失在灰色。我嘗試去抓住，甚麼我磨破我的手。  
+我的生活迷失在灰色。我嘗試去抓住，但什麼磨破了我的手。  
 'Cause I, I still love you but I can't  
-雖然，我愛你，但是我必須離開。  
+雖然我愛你，但是我必須離開。  
   
 [Chorus]  
 Bye bye to everything I thought was on my side  
