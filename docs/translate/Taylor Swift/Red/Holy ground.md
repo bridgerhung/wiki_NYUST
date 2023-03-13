@@ -21,7 +21,7 @@ While having coffee all alone, and Lord, it took me away
 Back to a first-glance feeling on New York time  
 在五光十色的紐約，回到第一眼的心動感受  
 Back when you fit in my poems like a perfect rhyme  
-邂逅像的完美的押韻，妝點我的詩  
+邂逅像完美的押韻，妝點我的詩  
 Took off faster than a green light, go  
 俠著青風快速走過  
 Hey, you skip the conversation when you already know  
