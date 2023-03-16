@@ -68,7 +68,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "/category/課程資料",
+            docId: "/category/文學與創新-創意實踐",
             position: "left",
             label: "課程檔案",
           },
@@ -108,16 +108,19 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        id: "announcementBar-1", // Increment on change
+        content:
+          '<b><a href="/category/文學與創新-創意實踐">3/17 文學與創新資料更新</a></b>',
+        //content: '<b><a href="/category/周末研討會">3/12 研討會</a></b>',
+        isCloseable: true,
+      },
       algolia: {
         appId: "5S4I7NT90Z",
         apiKey: "b5ddefaca62917d1e710774fdab76ded",
         indexName: "brid",
         contextualSearch: true,
       },
-      //announcementBar: {
-      //   id: 'announcementBar-2', // Increment on change
-      //   content: `🎇2/18日新增翻譯作品以及書籍、備審相關資料更新🎇`,
-      //  }
     }),
 };
 
