@@ -1,6 +1,6 @@
 ---
 title: 故事主題 - 戰爭中傳情 V2
-slug: love delivered in war
+slug: Love_story_V2
 sidebar_position: 4
 description: 生命教育、科技為生命服務
 ---
