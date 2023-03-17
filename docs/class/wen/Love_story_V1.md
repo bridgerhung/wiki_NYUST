@@ -1,5 +1,5 @@
 ---
-title: 故事主題 - 戰爭中傳情
+title: 故事主題 - 戰爭中傳情 V1
 slug: love delivered in war
 sidebar_position: 3
 description: 生命教育、科技為生命服務

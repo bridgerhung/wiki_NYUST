@@ -1,6 +1,6 @@
 ---
 title: AI 工具
-sidebar_position: 5
+sidebar_position: 100
 slug: Hubs
 ---
 ### 未來課程會使用到的工具
