@@ -2,6 +2,7 @@
 title: 3/20 概念故事回饋
 sidebar_position: 90
 slug: feedback
+description: 各組概念故事回饋
 ---
 ## 第二組
 你們的故事元素真的非常棒，我覺得拾起性別議題進行討論是一件非常有勇氣的事情。想要
