@@ -1,0 +1,15 @@
+# 行動系統
+
+:::info 
+4/14 報告
+:::
+
+:::warning 工作分配
+一個人挑一個 "二級子項"  
+例如:  
+- 洪名琮：行動系統如何運作
+:::
+
+## [_**點我下載簡報**_](ppt.pptx)
+
+![](https://mermaid.ink/svg/pako:eNptVFtPGlEQ_iub89QmElPUPvjQpIXalzZt2iZ92DVmI2slEWjIkqZRE7ACAiLGghfEW6x4QSWgBbpc-mO65_YvOsvuaha7L3vOzDcz3zdzzplH0yGfgsbRzFzo6_SsHFaF1--loADfx7fvRHa0ijMFetOmv2qTwp1dcLmeCc9Fmi9yrUO2q05Y3zn1xBFMi8v4ukh753YWANhAgOJcleRLJHo6-dDrFnn0mEeLhvfeCEESGh0ee_U3Gvvkn_HDj21lWborof_kGBFZ8oLHzkky5UgzYtDcWOe7CXaTJJs7PFoH1iT_GxaTTrkvBvXwZJaVY_ecbaBnEAhFaf6MVpdxKWuW9kBZ0lhh9TatVK1wj-Vxgy5cSEDEsN6JkZMrgIAmq20eS5QHJJl5cS6t9zL4at3OM-W2EU5eXgcvXF7SuwUey-jdkknKC6Roo86aVXyg0Z9rZL9BTjNWVq8FcVtJWCeF402ble2FNrcPeCU_EDQq0rMM1nID5jHRbDpZ3SRr26DDnMQA6qmoaxr-cTTQ5ZdGm1pL-PBWb3f5UfZu7DZgwmZ6vEe71yQVxa2G3ksYgyvWSGIJb6zSjsbb-331C3AC2UoKOkk3K-R7XG9lDGTskDX3WK-M45cLwkT_zJmc8TXoPxNcgrXVKvqfPXbVvKMxYZKYcj-SELlM8511snaKVxoQAnok9Fhw4kYAZ06GdHLkdh_aQbZO6G6aV7ZJp96_P0ZJnK2x5TjEO9WS0gWIw7UCKe0aHjSEAko4IPt9cLfnDYuE1FkloEhoHJY-ZUaOzKkSkoKLAJUjaujDt-A0GlfDEWUIRb74ZFXx-uXPYTlgGxWfXw2F35jPRf_VWPwH0BXydg)
