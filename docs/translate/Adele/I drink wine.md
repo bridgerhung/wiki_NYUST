@@ -55,9 +55,9 @@ Why am I obsessin' about the things I can't control?
 Why am I seekin' approval from people I don't even know?  
 為甚麼我總是尋覓著他人的認同?  
 In these crazy times, I hope to find somethin' I can cling on to  
-在狂風暴雨中，我總是想找個岩壁往上爬。  
+在狂風暴雨中，我總是想在狂浪中抓緊浮木。  
 'Cause I need some substance in my life, somethin' real, somethin' that feels true  
-因為我需要新的東西注入我的生命，一種真實的屬於我的想法。  
+我需要新的東西注入我的生命，一種真實的屬於我的想法。  
   
 [Pre-Chorus]  
 You better believe for you, I've cried (I've cried, I've cried)  
