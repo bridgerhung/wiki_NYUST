@@ -58,6 +58,7 @@ const sidebars = {
         description: "最近的翻譯",
       },
       items: [
+        "translate/Taylor Swift/Red/Safe and Sound",
         "translate/Taylor Swift/Midnights/You re On Your Own Kid",
         "translate/Adele/I drink wine",
         "translate/Taylor Swift/Fearless/Bye Bye Baby",
