@@ -1,5 +1,5 @@
 ---
-title: it's time to go - Taylor Swift
+title: it's time to go
 slug: its time to go
 sidebar_position: 2
 description: 時間到了，該啟程了
