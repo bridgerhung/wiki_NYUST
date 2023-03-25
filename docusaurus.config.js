@@ -26,6 +26,11 @@ const config = {
     defaultLocale: "zh-Hant",
     locales: ["zh-Hant"],
   },
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+  
 
   presets: [
     [
