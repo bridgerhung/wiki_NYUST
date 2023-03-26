@@ -106,13 +106,28 @@ const config = {
 
       footer: {
         style: "dark",
-
+        links: [
+          {
+            title: '其他平台',
+            items: [
+              {
+                label: 'Youtube',
+                to: 'https://www.youtube.com/@bridger.h',
+              },
+              {
+                label: 'odysee',
+                to: 'https://odysee.com/@BridgerH:8',
+              },
+            ],
+          },
+        ],
         copyright: `© ${new Date().getFullYear()} Bridger Hung`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      /*
       announcementBar: {
         id: "announcementBar-1", // Increment on change
         content:
@@ -120,6 +135,7 @@ const config = {
         //content: '<b><a href="/category/周末研討會">3/12 研討會</a></b>',
         isCloseable: true,
       },
+      */
       algolia: {
         appId: "5S4I7NT90Z",
         apiKey: "b5ddefaca62917d1e710774fdab76ded",

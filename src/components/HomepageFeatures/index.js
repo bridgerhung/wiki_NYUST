@@ -4,21 +4,27 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '這是我的維基',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: <></>,
+    title: '跳轉地區',
+  //  description: <>DNS1:&nbsp;&nbsp;140.125.252.1&nbsp;&nbsp;</>,
+  //  description2: <>DNS2:&nbsp;&nbsp;140.125.253.2&nbsp;&nbsp;</>,
+    link1: <><a href={'/class/wen/Story/Love_story_V1'}>&nbsp;安然無恙-故事文本&nbsp;</a> <a href={'/class/wen/Story/board'}>&nbsp;故事板&nbsp; </a></>,
+    link2: <><a href={'/class/en/TV%20introduce'}>&nbsp;六人行&nbsp;</a></>,
+    link3: <><a href={'/class/MIS/mobile_system'}>&nbsp;行動系統&nbsp;</a></>
   },
+  
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ title, link1,link2,link3 }) {
   return (
     <div className={clsx('col col--21')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
-        <p>{description}</p>
+        <p><b>{link1}</b></p>
+        <p><b>{link2}</b></p>
+        <p><b>{link3}</b></p>
       </div>
     </div>
   );
