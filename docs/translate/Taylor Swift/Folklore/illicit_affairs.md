@@ -73,7 +73,7 @@ And that's the thing about illicit affairs
 And clandestine meetings and longing stares  
 不見光的會面，遙遠長久的凝視  
 They show their truth one single time  
-那些糖衣毒藥展現過一次湯們的真實  
+那些糖衣毒藥展現過一次欣快們的真實  
 But they lie and they lie and they lie  
 但他們卻是有千百萬次的  
 A million little times  
@@ -87,7 +87,7 @@ Don't call me "kid," don't call me "baby"
 Look at this godforsaken mess that you made me  
 看看你所做的好事，你弄得我一團糟  
 You showed me colors you know I can't see with anyone else  
-你讓我的眼，只能看到你所繪出的七彩斑斕  
+你創造了只有我能見著的七彩斑斕  
 Don't call me "kid," don't call me "baby"  
 別稱我小孩子，別喚我寶貝  
 Look at this idiotic fool that you made me  
@@ -97,7 +97,7 @@ You taught me a secret language I can't speak with anyone else
   
 [Outro]  
 And you know damn well  
-你都知道這一切
+你都知道這一切  
 For you, I would ruin myself  
 對你來說，是我自願毀壞我自己  
 A million little times  
