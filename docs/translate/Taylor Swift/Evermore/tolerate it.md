@@ -18,7 +18,7 @@ tags:
   allowFullScreen="true"
 />
   
-
+## 翻譯
 [Verse 1]  
 I sit and watch you reading with your head low  
 我坐在桌邊，看你低頭閱讀  
