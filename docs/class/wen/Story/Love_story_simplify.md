@@ -1,7 +1,7 @@
 ---
 title: 安然無恙精簡版本
 slug: Love_story_V2
-sidebar_position: 4
+sidebar_position: 1
 description: 精簡版本
 ---
 :::tip edit
