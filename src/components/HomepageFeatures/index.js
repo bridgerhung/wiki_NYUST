@@ -7,7 +7,7 @@ const FeatureList = [
     title: '跳轉地區',
   //  description: <>DNS1:&nbsp;&nbsp;140.125.252.1&nbsp;&nbsp;</>,
   //  description2: <>DNS2:&nbsp;&nbsp;140.125.253.2&nbsp;&nbsp;</>,
-    link1: <><a href={'/class/wen/Story/Love_story_V1'}>&nbsp;安然無恙-故事文本&nbsp;</a> <a href={'/class/wen/Story/board'}>&nbsp;故事板&nbsp; </a></>,
+    link1: <><a href={'/class/wen/Story/Love_story_V1'}>&nbsp;安然無恙-故事文本&nbsp;</a> <a href={'/class/wen/Story/Love_story_V2'}>&nbsp;故事板&nbsp; </a></>,
     link2: <><a href={'/class/en/TV%20introduce'}>&nbsp;六人行&nbsp;</a></>,
     link3: <><a href={'/class/MIS/mobile_system'}>&nbsp;行動系統&nbsp;</a></>
   },
