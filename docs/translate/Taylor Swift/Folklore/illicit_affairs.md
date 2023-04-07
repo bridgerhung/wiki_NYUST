@@ -18,7 +18,9 @@ tags:
   allowFullScreen="true"
 />
 
-## 翻譯
+
+## 翻譯 
+  
 [Verse 1]  
 Make sure nobody sees you leave  
 別讓任何人看到你離開  
