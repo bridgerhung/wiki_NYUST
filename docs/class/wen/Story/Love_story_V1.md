@@ -1,5 +1,5 @@
 ---
-title: 安然無恙
+title: 廢棄_安然無恙
 slug: Love_story_V1
 sidebar_position: 3
 description: 生命教育、科技為生命服務
