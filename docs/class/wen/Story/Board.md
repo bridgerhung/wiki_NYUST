@@ -11,7 +11,6 @@ description: 生命教育、科技為生命服務
 :::
 
 ---
-![](embed.svg)
 
 ---
 <iframe

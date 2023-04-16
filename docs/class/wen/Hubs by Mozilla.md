@@ -3,14 +3,28 @@ title: AI 工具
 sidebar_position: 100
 slug: Hubs
 ---
-### 未來課程會使用到的工具
+## 未來課程會使用到的工具
 [Spoke by Mozilla](https://hubs.mozilla.com/spoke/)  
-[Hubs by Mozilla ](https://hubs.mozilla.com)  
+[Hubs by Mozilla ](https://hubs.mozilla.com)
+### AI tool  
 [ChatGPT AI 聊天機器人](https://AI.com)  
-[midjourney 圖片生成AI](https://www.midjourney.com/)  
+### Prompt to Image
+[stable diffusion](https://stability.ai/)  
+[stable diffusion Web](https://stablediffusionweb.com/)
+[adobe firefly](https://firefly.adobe.com/generate/images)  
+[Dall-e-2](https://openai.com/product/dall-e-2)  
+[Bing AI image generate](https://www.bing.com/create)  
+
+https://freeimage.ai/  
+https://deepai.org/  
+https://www.aiimagegenerator.org/  
+https://www.artbreeder.com/  
+https://generated.photos/  
+https://www.craiyon.com/
 
 
-### Hubs by Mozilla 教學影片
+
+## Hubs by Mozilla 教學影片
 :::tip **提示**
 ***點擊下方粗體底線文字自動跳轉影片***
 
