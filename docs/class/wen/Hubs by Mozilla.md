@@ -7,13 +7,15 @@ slug: Hubs
 [Spoke by Mozilla](https://hubs.mozilla.com/spoke/)  
 [Hubs by Mozilla ](https://hubs.mozilla.com)  
 ### AI tool  
-[ChatGPT AI 聊天機器人](https://AI.com)  
+[ChatGPT](https://AI.com)  
+[Bing Chat](https://bing.com)  
+  
 ### Prompt to Image
 [stable diffusion](https://stability.ai/)  
 [stable diffusion Web](https://stablediffusionweb.com/)  
 [adobe firefly](https://firefly.adobe.com/generate/images)  
-[Dall-e-2](https://openai.com/product/dall-e-2)  
-[Bing AI image generate](https://www.bing.com/create)  
+[Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
+[DALL-E-2](https://openai.com/product/dall-e-2)  
 
 https://freeimage.ai/  
 https://deepai.org/  
