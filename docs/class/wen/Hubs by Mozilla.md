@@ -5,12 +5,12 @@ slug: Hubs
 ---
 ## 未來課程會使用到的工具
 [Spoke by Mozilla](https://hubs.mozilla.com/spoke/)  
-[Hubs by Mozilla ](https://hubs.mozilla.com)
+[Hubs by Mozilla ](https://hubs.mozilla.com)  
 ### AI tool  
 [ChatGPT AI 聊天機器人](https://AI.com)  
 ### Prompt to Image
 [stable diffusion](https://stability.ai/)  
-[stable diffusion Web](https://stablediffusionweb.com/)
+[stable diffusion Web](https://stablediffusionweb.com/)  
 [adobe firefly](https://firefly.adobe.com/generate/images)  
 [Dall-e-2](https://openai.com/product/dall-e-2)  
 [Bing AI image generate](https://www.bing.com/create)  
