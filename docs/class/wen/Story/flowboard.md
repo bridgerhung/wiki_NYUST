@@ -12,7 +12,7 @@ description: 生命教育、科技為生命服務
 ## [Canva 分鏡圖組合處_LINK](https://www.canva.com/design/DAFeBBnDoTU/Lltq2-oHBsVNxCBZ-XVdyw/edit?utm_content=DAFeBBnDoTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 :::
 
-## [LINK_故事文本－安然無恙](./Love_story_V3)
+## [LINK_故事文本－安然無恙](./Love_story)
 
 <>
   <div
