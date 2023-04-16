@@ -1,8 +1,8 @@
 ---
-title: 安然無恙精簡版本
-slug: Love_story_V2
+title: 安然無恙
+slug: Love_story_V3
 sidebar_position: 1
-description: 精簡版本
+description: 背景架構修正
 ---
 :::tip edit
 [LINK](https://www.canva.com/design/DAFfY6HOtKI/xAWhC5C0malLfMxVGmOP9Q/edit?utm_content=DAFfY6HOtKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
