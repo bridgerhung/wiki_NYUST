@@ -11,7 +11,14 @@ slug: Hubs
 [Bing Chat](https://bing.com)  
   
 ### Prompt to Image
-:::tip 推薦
+::::tip 推薦
+
+:::warning 警示
+部分提詞會有出入，請多嘗試  
+或把場景拆分成多張圖片，因為AI沒那麼聰明  
+部分提詞會違反平台政策，會被阻擋  
+:::
+
 [Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
 圖片產生器  
   
@@ -23,7 +30,7 @@ slug: Hubs
   
 [Simple Translate](https://chrome.google.com/webstore/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace)  
 划句翻譯  
-:::
+::::
 [stable diffusion](https://stability.ai/)  
 [stable diffusion Web](https://stablediffusionweb.com/)  
 [adobe firefly](https://firefly.adobe.com/generate/images)  
