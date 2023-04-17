@@ -11,10 +11,23 @@ slug: Hubs
 [Bing Chat](https://bing.com)  
   
 ### Prompt to Image
+:::tip 推薦
+[Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
+圖片產生器  
+  
+[ChatGPT](https://AI.com)  
+搭配AIRPM 使用  
+  
+[AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)  
+使用Midjourney Prompt generater  
+  
+[Simple Translate](https://chrome.google.com/webstore/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace)  
+划句翻譯  
+:::
 [stable diffusion](https://stability.ai/)  
 [stable diffusion Web](https://stablediffusionweb.com/)  
 [adobe firefly](https://firefly.adobe.com/generate/images)  
-[Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
+
 [DALL-E-2](https://openai.com/product/dall-e-2)  
 
 https://freeimage.ai/  
