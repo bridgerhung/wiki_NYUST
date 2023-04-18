@@ -10,7 +10,7 @@ slug: Hubs
 [ChatGPT](https://AI.com)  
 [Bing Chat](https://bing.com)  
   
-### Prompt to Image
+###  to Image
 ::::tip 推薦
 
 :::warning 警示
