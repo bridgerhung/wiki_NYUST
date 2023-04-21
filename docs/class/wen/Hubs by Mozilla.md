@@ -1,52 +1,12 @@
 ---
-title: AI 工具
+title: Hubs by Mozilla
 sidebar_position: 100
 slug: Hubs
 ---
 ## 未來課程會使用到的工具
 [Spoke by Mozilla](https://hubs.mozilla.com/spoke/)  
 [Hubs by Mozilla ](https://hubs.mozilla.com)  
-### AI tool  
-[ChatGPT](https://AI.com)  
-[Bing Chat](https://bing.com)  
-  
-###  to Image
-::::tip 推薦
-
-:::warning 警示
-部分提詞會有出入，請多嘗試  
-或把場景拆分成多張圖片，因為AI沒那麼聰明  
-部分提詞會違反平台政策，會被阻擋  
-  
-可加上以下指令  
-```avoid explilicit results or generation ```
-:::
-
-[Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
-圖片產生器  
-  
-[ChatGPT](https://AI.com)  
-搭配AIRPM 使用  
-  
-[AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)  
-使用Midjourney Prompt generater  
-  
-[Simple Translate](https://chrome.google.com/webstore/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace)  
-划句翻譯  
-::::
-[stable diffusion](https://stability.ai/)  
-[stable diffusion Web](https://stablediffusionweb.com/)  
-[adobe firefly](https://firefly.adobe.com/generate/images)  
-
-[DALL-E-2](https://openai.com/product/dall-e-2)  
-
-https://freeimage.ai/  
-https://deepai.org/  
-https://www.aiimagegenerator.org/  
-https://www.artbreeder.com/  
-https://generated.photos/  
-https://www.craiyon.com/
-
+ 
 
 
 ## Hubs by Mozilla 教學影片
