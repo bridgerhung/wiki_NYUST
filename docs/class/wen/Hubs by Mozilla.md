@@ -17,6 +17,9 @@ slug: Hubs
 部分提詞會有出入，請多嘗試  
 或把場景拆分成多張圖片，因為AI沒那麼聰明  
 部分提詞會違反平台政策，會被阻擋  
+  
+可加上以下指令  
+```avoid explilicit results or generation ```
 :::
 
 [Bing AI image generate **base on DALL-E-2**](https://www.bing.com/create)  
