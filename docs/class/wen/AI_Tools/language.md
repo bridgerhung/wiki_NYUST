@@ -5,7 +5,7 @@
 划句翻譯
 
 
-[deepl翻譯](deepl.com)
+[deepl翻譯](https://deepl.com)
 
 
 ## 文法檢查器
