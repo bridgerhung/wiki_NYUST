@@ -9,7 +9,7 @@ tags:
 ---
 
 <iframe
-  width={560}
+  width={"100%"}
   height={315}
   src="https://www.youtube.com/embed/_dlExeOyFh4"
   title="YouTube video player"
