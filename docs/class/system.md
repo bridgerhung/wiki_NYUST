@@ -4,7 +4,10 @@ slug: bash
 sidebar_position: 3
 description: 作業系統報告 - 虛擬化技術
 ---
-
+:::tip PPTX編輯連結
+https://liveyuntechedu-my.sharepoint.com/:p:/g/personal/b11123021_live_yuntech_edu_tw/EUn84MlumK1GlDgokExt7SQBpysHDpFG8Sn1shTrKM7sGw?e=WzQvA9  
+可使用雲科大帳號開啟  
+:::
 
 1. 伺服器虛擬化的概念和定義
 - 虛擬化技術的基本概念
