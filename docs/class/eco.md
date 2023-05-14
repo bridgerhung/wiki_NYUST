@@ -11,6 +11,10 @@ description: 經濟學報告 - 什麼是TNFD？
 https://liveyuntechedu-my.sharepoint.com/:p:/g/personal/b11123021_live_yuntech_edu_tw/EebDYde56-BHnqLgEqvf-EUBZQ2npPD0RTGiFoL7PAJkeQ?e=FOEMzN
 :::
 
+:::tip 其他參考資料，及報告要求
+[**我存的參考資料**](https://bridgerhung.notion.site/f1ad6b2a3feb42e88bab918b0e932016)
+:::
+
 ```mermaid
 flowchart LR
     0[_TNFD_] --> 1["介紹TNFD 和 TCFD"]
