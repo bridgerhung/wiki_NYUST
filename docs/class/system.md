@@ -9,6 +9,11 @@ https://liveyuntechedu-my.sharepoint.com/:p:/g/personal/b11123021_live_yuntech_e
 可使用雲科大帳號開啟  
 :::
 
+:::tip WORD編輯連結
+https://liveyuntechedu-my.sharepoint.com/:w:/g/personal/b11123021_live_yuntech_edu_tw/EXRaF-3uSxNOgSkMkAN7v4gBCaS6ElhKFnCPYB30KrTcBA?e=RCpgnX
+可使用雲科大帳號開啟  
+:::
+
 1. 伺服器虛擬化的概念、定義和技術
     - 虛擬化技術的基本概念 
     - 虛擬化技術的介紹
