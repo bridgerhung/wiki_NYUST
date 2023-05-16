@@ -10,7 +10,7 @@ https://liveyuntechedu-my.sharepoint.com/:p:/g/personal/b11123021_live_yuntech_e
 :::
 
 :::tip WORD編輯連結
-https://liveyuntechedu-my.sharepoint.com/:w:/g/personal/b11123021_live_yuntech_edu_tw/EXRaF-3uSxNOgSkMkAN7v4gBCaS6ElhKFnCPYB30KrTcBA?e=RCpgnX
+https://liveyuntechedu-my.sharepoint.com/:w:/g/personal/b11123021_live_yuntech_edu_tw/EXRaF-3uSxNOgSkMkAN7v4gBCaS6ElhKFnCPYB30KrTcBA?e=RCpgnX  
 可使用雲科大帳號開啟  
 :::
 
