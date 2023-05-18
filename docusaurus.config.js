@@ -73,7 +73,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "/category/文學與創新-創意實踐",
+            docId: "/category/課程檔案",
             position: "left",
             label: "課程檔案",
           },
