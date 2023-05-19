@@ -13,6 +13,8 @@ https://liveyuntechedu-my.sharepoint.com/:p:/g/personal/b11123021_live_yuntech_e
 
 :::tip 其他參考資料，及報告要求
 [**我存的參考資料**](https://bridgerhung.notion.site/f1ad6b2a3feb42e88bab918b0e932016)
+
+[**TNFD官方網站**](https://framework.tnfd.global/dashboard/)  
 :::
 
 ```mermaid
