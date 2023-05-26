@@ -11,7 +11,6 @@ description: 生命教育、科技為生命服務
 ## [期末報告CANVA](https://www.canva.com/design/DAFkB5_whDc/POOxGmh0P0lm2Vyuq56JFA/edit?utm_content=DAFkB5_whDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 :::
 
-## [LINK_故事文本－安然無恙](./Love_story)
 
 <>
   <div
