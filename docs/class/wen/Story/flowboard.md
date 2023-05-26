@@ -1,15 +1,14 @@
 ---
-title: 分鏡故事版
+title: 期末文學報告
 slug: storyboard
 sidebar_position: 0
 description: 生命教育、科技為生命服務
 ---
 
 :::tip 連結
-## [Google 雲端硬碟_LINK](https://drive.google.com/drive/folders/19kJ76Gk8VYrQSw2ZBsm6RT-j6oBsKyT0?usp=sharing)  
-> 拿來存分鏡圖原稿的  
-
-## [Canva 分鏡圖組合處_LINK](https://www.canva.com/design/DAFeBBnDoTU/Lltq2-oHBsVNxCBZ-XVdyw/edit?utm_content=DAFeBBnDoTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## [Google 雲端硬碟_LINK](https://brid.gq/sas)  
+  
+## [期末報告CANVA](https://www.canva.com/design/DAFkB5_whDc/POOxGmh0P0lm2Vyuq56JFA/edit?utm_content=DAFkB5_whDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 :::
 
 ## [LINK_故事文本－安然無恙](./Love_story)
@@ -20,7 +19,7 @@ description: 生命教育、科技為生命服務
       position: "relative",
       width: "100%",
       height: 0,
-      paddingTop: "129.4118%",
+      paddingTop: "56.2500%",
       paddingBottom: 0,
       boxShadow: "0 2px 8px 0 rgba(63,69,81,0.16)",
       marginTop: "1.6em",
@@ -42,17 +41,17 @@ description: 生命教育、科技為生命服務
         padding: 0,
         margin: 0
       }}
-      src="https://www.canva.com/design/DAFeBBnDoTU/view?embed"
+      src="https://www.canva.com/design/DAFkB5_whDc/view?embed"
       allowFullScreen="allowfullscreen"
       allow="fullscreen"
     ></iframe>
   </div>
-  阿對對隊 {" "}
+  阿對對隊      
   <a
-    href="https://www.canva.com/design/DAFeBBnDoTU/view?utm_content=DAFeBBnDoTU&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
+    href="https://www.canva.com/design/DAFkB5_whDc/view?utm_content=DAFkB5_whDc&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
     target="_blank"
     rel="noopener"
   >
-    Safe and Sound 安然無恙
+    創作的 安然無恙-期末文學報告
   </a>
 </>
