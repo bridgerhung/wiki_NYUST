@@ -9,7 +9,7 @@ const FeatureList = [
     //  description2: <>DNS2:&nbsp;&nbsp;140.125.253.2&nbsp;&nbsp;</>,
     link1: (
       <>
-        <a href={"/class/wen/Story/Love_story"}>&nbsp;安然無恙&nbsp;</a>
+        <a href={"/class/wen/Story/storyboard"}>&nbsp;安然無恙&nbsp;</a>
       </>
     ),
     // link2: <><a href={'/class/en/TV%20introduce'}>&nbsp;六人行&nbsp;</a></>,
