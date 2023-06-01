@@ -8,7 +8,11 @@ description: 生命教育、科技為生命服務
 :::tip 連結
 ## [Google 雲端硬碟_LINK](https://brid.gq/sas)  
   
-## [期末報告CANVA](https://www.canva.com/design/DAFkB5_whDc/POOxGmh0P0lm2Vyuq56JFA/edit?utm_content=DAFkB5_whDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## [期末報告CANVA](https://www.canva.com/design/DAFkB5_whDc/POOxGmh0P0lm2Vyuq56JFA/edit?utm_content=DAFkB5_whDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
+## [Hubs 劇院](https://hubs.mozilla.com/link/5tKbZ9g)  
+
+## [成品影片](https://drive.google.com/file/d/1X5Ttz3XNDFHsVoduqO5jhNyp_UYltPvZ/view?usp=share_link)  
 :::
 
 
