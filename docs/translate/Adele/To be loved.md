@@ -41,7 +41,7 @@ Filling rooms with all my hopes and fears
 [Pre-Chorus]  
 But, oh, my  
 但是  
-Oh, my
+Oh, my  
 但是    
 I'll never learn if I never leap  
 若我從未輕狂，我永遠不會長大  
@@ -80,8 +80,8 @@ Keep my heart safe till the time feels right
   
 [Pre-Chorus]  
 But, oh, my  
-但是
-Oh, my
+但是  
+Oh, my  
 但是阿    
 I'll never learn if I never leap  
 若我從未輕狂，我永遠不會長大  

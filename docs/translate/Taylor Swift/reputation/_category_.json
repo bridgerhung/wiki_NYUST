@@ -2,5 +2,10 @@
   "position": 6,
   "label": "reputation",
   "collapsible": true,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "reputation",
+    "description": "舉世盛名"
+  }
 }
