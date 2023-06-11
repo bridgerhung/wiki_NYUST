@@ -78,6 +78,9 @@ const sidebars = {
         description: "最近的翻譯",
       },
       items: [
+        "translate/Taylor Swift/Red/Nothing New",
+        "translate/Taylor Swift/reputation/Getaway Car",
+        "translate/others/Carry on",
         "translate/Adele/To be loved",
         "translate/Taylor Swift/Evermore/tolerate it",
         "translate/Taylor Swift/Folklore/illicit_affairs",
