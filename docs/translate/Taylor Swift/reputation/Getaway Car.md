@@ -83,7 +83,7 @@ But you weren't thinkin’ and I was just drinkin’
 While he was runnin' after us, I was screamin’, "Go, go, go!"  
 他那時追著我，我大喊著，快逃!!  
 But with three of us, honey, it's a sideshow  
-但寶貝，我是我們三人表演的餘興節目  
+但寶貝，這是我們三人的餘興表演節目  
 And a circus ain't a love story and now we're both sorry  
 但八點檔的連續劇並不是真的愛情故事，現在我們都心懷愧疚  
 (We’re both sorry)  

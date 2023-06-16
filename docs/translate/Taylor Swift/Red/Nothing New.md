@@ -105,7 +105,7 @@ I know someday I'm gonna meet her, it's a fever dream
 The kind of radiance you only have at seventeen  
 她有著17歲少女獨有的光芒  
 She'll know the way and then she'll say she got the map from me  
-她知道這條路怎麼走，她獲說從我上得到成功的地圖  
+她知道這條路怎麼走，她說從我上得到成功的地圖  
 I'll say I'm happy for her, then I'll cry myself to sleep  
 我會說，我真替妳高興，然後窩在被子裡哭泣  
 Oh, woah, oh (Oh)  
