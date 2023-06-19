@@ -71,12 +71,14 @@ const config = {
           src: "img/me.webp",
         },
         items: [
+          /*
           {
             type: "doc",
             docId: "/category/課程檔案",
             position: "left",
             label: "課程檔案",
           },
+          */
           {
             type: "doc",
             docId: "chsc/intro",

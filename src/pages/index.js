@@ -14,7 +14,8 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        
+        {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/category/課程檔案"
@@ -22,7 +23,8 @@ function HomepageHeader() {
             點我進入報告專案頁面
           </Link>
           
-        </div>
+        </div> */}
+        
         <h1>  </h1>
         <div className={styles.buttons}>
           <Link
