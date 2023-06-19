@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Bridger's Wiki",
-  tagline: "課程、學習歷程、翻譯、閱讀心得",
+  tagline: "課程、翻譯、閱讀心得",
   url: "https://wiki.brid.gq",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -79,12 +79,12 @@ const config = {
             label: "課程檔案",
           },
           */
-          {
-            type: "doc",
-            docId: "chsc/intro",
-            position: "left",
-            label: "二階歷程檔案",
-          },
+          // {
+          //   type: "doc",
+          //   docId: "chsc/intro",
+          //   position: "left",
+          //   label: "二階歷程檔案",
+          // },
           {
             type: "doc",
             docId: "/category/書籍介紹",
