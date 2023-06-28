@@ -79,7 +79,7 @@ It was the great escape, the prison break
 The light of freedom on my face  
 自由的陽光在我臉上  
 But you weren't thinkin’ and I was just drinkin’  
-但我當時腦袋空白，喝酒消愁  
+但你當時沒想太多，而我喝酒消愁  
 While he was runnin' after us, I was screamin’, "Go, go, go!"  
 他那時追著我，我大喊著，快逃!!  
 But with three of us, honey, it's a sideshow  
@@ -130,7 +130,7 @@ Until I switched to the other side, to the other side
 It's no surprise I turned you in (Oh-oh)  
 我背叛了你一點都不意外  
 'Cause us traitors never win  
-因為叛徒們從來都不是贏家    
+因為叛徒們永遠不是贏家    
   
 [Breakdown]  
 I'm in a getaway car  

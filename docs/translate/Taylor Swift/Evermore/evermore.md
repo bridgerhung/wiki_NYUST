@@ -45,7 +45,7 @@ And I was catchin' my breath
 Starin' out an open window, catchin' my death  
 注視著窗外，追趕著我已逝的靈魂  
 And I couldn't be sure  
-我不能篤定  
+我隱約覺得  
 I had a feeling so peculiar  
 一種特殊的感受油然升起  
 That this pain would be for  
@@ -77,7 +77,7 @@ And I was catchin' my breath
 Starin' out an open window, catchin' my death  
 注視著窗外，追趕著我已逝的靈魂  
 And I couldn't be sure  
-我不能篤定  
+我隱約覺得  
 I had a feeling so peculiar  
 一種特殊的感受油然升起  
 That this pain would be for  
@@ -106,7 +106,7 @@ I'm on waves, out being tossed
 Is there a line that I could just go cross?  
 當我的小船劇烈擺盪?  
 And when I was shipwrecked (Can't think of all the cost now)  
-有沒有一條航線能讓我安全穿越? (不法想像這些代價 )  
+有沒有一條航線能讓我安全穿越? (無法想像這些代價 )  
 I thought of you (All the things that will be lost now)  
 我想到你 (所有的一切將消逝)  
 In the cracks of light (Can we just get a pause?)  
@@ -136,7 +136,7 @@ And I was catchin' my breath
 Floors of a cabin creakin' under my step  
 腳下的木板滋滋作響  
 And I couldn't be sure  
-我無法確定  
+我隱約覺得  
 I had a feeling so peculiar  
 我心中有一種奇妙感受油然升起  
 This pain wouldn't be for  
