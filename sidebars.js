@@ -146,11 +146,7 @@ const sidebars = {
         "translate/Taylor Swift/Lover/Death by thousand cuts",
         "translate/Ben Platt/Grow as we go",
         "translate/Ben Platt/Honest Man",
-        {
-          type: "link",
-          label: "Getaway Car - Taylor Swift",
-          href: "https://www.youtube.com/watch?v=EW1ncv-jZNk",
-        },
+        "translate/Taylor Swift/reputation/Getaway Car",
       ],
     },
   ],
