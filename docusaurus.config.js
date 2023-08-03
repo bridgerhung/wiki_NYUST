@@ -49,7 +49,7 @@ const config = {
         blog: {
             // routeBasePath: '/',
             path: 'blog',
-            postsPerPage: 3,
+            postsPerPage: 'ALL',
             feedOptions: {
               type: 'all',
               copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
