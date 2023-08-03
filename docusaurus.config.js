@@ -31,6 +31,7 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
   
+  
 
   presets: [
     [
@@ -45,10 +46,18 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-        blog: false,
-        // Please change this to your repo.
-        // Remove this to remove the "edit this page" links.
-
+        blog: {
+            // routeBasePath: '/',
+            path: 'blog',
+            postsPerPage: 3,
+            feedOptions: {
+              type: 'all',
+              copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
+            },
+            blogSidebarCount: 'ALL',
+            blogSidebarTitle: '日記',
+           },
+        
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -66,6 +75,7 @@ const config = {
     ({
       navbar: {
         title: `Bridger's wiki `,
+        hideOnScroll: true,
         logo: {
           alt: "My Site Logo",
           src: "img/me.webp",
@@ -103,6 +113,8 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
+          {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
+          
         ],
       },
 
