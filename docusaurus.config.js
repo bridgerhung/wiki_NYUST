@@ -46,17 +46,17 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-        blog: {
-            // routeBasePath: '/',
-            path: 'blog',
-            postsPerPage: 'ALL',
-            feedOptions: {
-              type: 'all',
-              copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
-            },
-            blogSidebarCount: 'ALL',
-            blogSidebarTitle: '日記',
-           },
+        // blog: {
+        //     // routeBasePath: '/',
+        //     path: 'blog',
+        //     postsPerPage: 'ALL',
+        //     feedOptions: {
+        //       type: 'all',
+        //       copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
+        //     },
+        //     blogSidebarCount: 'ALL',
+        //     blogSidebarTitle: '日記',
+        //    },
         
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -113,7 +113,7 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
-          {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
+          // {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
           
         ],
       },
