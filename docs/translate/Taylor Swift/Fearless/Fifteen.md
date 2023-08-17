@@ -74,7 +74,7 @@ Fifteen
 
 You sit in class next to a redhead named Abigail
 
-你坐在班上，做你旁邊的男孩叫阿比蓋爾
+你坐在班上，做你旁邊的女孩叫阿比蓋爾
 
 And soon enough you're best friends
 
@@ -90,11 +90,11 @@ We'll be outta here as soon as we can
 
 And then you're on your very first date and he's got a car
 
-你很快的迎來你第一個約會，開著車來迎接你
+你很快的迎來你第一個約會，男友開著車來迎接
 
 And you're feeling like flying
 
-你開心的往上飛
+而你開心的往上飛
 
 And your momma's waiting up and you're thinking he's the one
 
