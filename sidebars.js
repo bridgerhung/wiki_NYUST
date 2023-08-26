@@ -199,6 +199,34 @@ const sidebars = {
       href: "/book/inspir", // The internal path
     },
   ],
+  fc: [
+    {
+      type: "category",
+      label: "社會福利中心-名琮成果打包",
+      link: {
+        type: "doc",
+        id: "fc/intro",
+      },
+      collapsed: true,
+      items: [
+        "fc/Inventory",
+        "fc/jipo",
+        {
+          type: 'category',
+          label: '區域聯繫會議',
+          link: {
+            type: 'doc',
+            id: 'fc/community',
+          },
+          items: [
+            'fc/post',
+            'fc/game'
+          ],
+        },
+        "fc/statistic",
+      ],
+    }
+  ]
 };
 
 module.exports = sidebars;
