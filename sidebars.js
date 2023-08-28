@@ -224,6 +224,7 @@ const sidebars = {
           ],
         },
         "fc/statistic",
+        "fc/pian"
       ],
     }
   ]
