@@ -58,7 +58,7 @@ https://1drv.ms/x/s!AsJPRtz94iR7gZxqhKhGtjnpiBCIiQ?e=RnAdEL
 
 ### 服務期程分析
 :::info 畫重點
-鹿港中心所服務的個案都會在一年內結案 
+鹿港中心所服務的個案通常在一年內結案 
 :::
 
 共有122件一年內結案，也符合大部分為低脆弱度的結果  
