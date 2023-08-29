@@ -5,7 +5,7 @@ description: 計算目前派案進度及輪序
 toc_max_heading_level: 6
 ---  
 
-:::caution 線上試算表填寫連結
+:::caution 線上編輯連結
 https://docs.google.com/spreadsheets/d/1QsmEdz34G6Qs0l57eeTPY1TJYlXpncDiZh6L1GpjyYw/edit?usp=sharing
 :::
 
