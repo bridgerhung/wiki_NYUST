@@ -25,7 +25,7 @@ https://1drv.ms/x/s!AsJPRtz94iR7gZxqhKhGtjnpiBCIiQ?e=RnAdEL
 * 家庭衝突
 * 身心障礙的照顧需求
 
-:::warning <span style={{color: 'red'}}>上述各需求面在接下的分析會互相關聯、牽扯</span>
+:::warning <span style={{color: 'blue'}}>上述各需求面在接下的分析會互相關聯、牽扯</span>
 :::
 
 ### 39個案家擁有第二個脆弱性面向
