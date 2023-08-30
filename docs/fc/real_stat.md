@@ -6,15 +6,18 @@ toc_max_heading_level: 5
 ---  
 
 :::caution 線上檢視連結
-https://1drv.ms/x/s!AsJPRtz94iR7gZxqhKhGtjnpiBCIiQ?e=RnAdEL
+https://1drv.ms/x/s!AjK-vhGa7nQ7axrR5ATw5kZsMXo?e=tUQnek
 :::
 
 
 ## 介紹
+為了更瞭解鹿港中心的服務對象的共同相近處遇，  
+在未來的聯繫會議針對鹿港中心普遍個案，所遇到的議題進行更加聚焦的討論，  
+並且去對接過去不熟悉的資源，  
 
-使用脆家系統的結案清冊輸出 108~112年的結案資料  
+因此使用脆家系統的結案清冊輸出 108~112年的結案資料  
 執行資料清洗及分析後  
-得到以下這些結果  
+得到以下這些結果  -->
   
 ### 鹿港中心案件四項重大議題
 根據第一項的脆弱性面向解釋  
@@ -87,3 +90,13 @@ https://1drv.ms/x/s!AsJPRtz94iR7gZxqhKhGtjnpiBCIiQ?e=RnAdEL
 * 鹿港中心脆弱性因子分布
 * 鹿港中心脆弱性程度分析
 * 服務期程分析
+
+## 使用到的功能
+:::info 可以Google & Youtube 搜尋學習
+:::
+
+* 資料剖析
+* 篩選
+* 樞紐試算表
+* IF && Count 公式
+* 儲存格格式設定
