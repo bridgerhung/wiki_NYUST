@@ -17,6 +17,7 @@ https://docs.google.com/spreadsheets/d/1QsmEdz34G6Qs0l57eeTPY1TJYlXpncDiZh6L1Gpj
 已經有交接給榮華，告訴他清單年度篩選功能建置在""建檔時間的字串篩選器""  
 
 累積派案量程式的篩選功能建置在資料透視表編輯器內的篩選器 - 建檔時間  
+![image](https://e.brid.cf/i/2023/08/30/r6gq7g.webp)
 :::
 
 為了讓部分統計業務能夠自動並雲端化  
