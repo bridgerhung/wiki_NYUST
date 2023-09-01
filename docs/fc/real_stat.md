@@ -102,6 +102,6 @@ https://1drv.ms/x/s!AjK-vhGa7nQ7axrR5ATw5kZsMXo?e=tUQnek
 
 * 資料剖析
 * 篩選
-* 樞紐試算表
+* 樞紐分析表
 * IF && Count 公式
 * 儲存格格式設定
