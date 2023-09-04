@@ -6,7 +6,9 @@ toc_max_heading_level: 5
 ---  
 
 :::caution 線上檢視連結
-https://1drv.ms/x/s!AjK-vhGa7nQ7axrR5ATw5kZsMXo?e=tUQnek
+### <span style={{color: 'blue'}}>Restricted Data Security Policy </span>  
+**<span style={{color: 'red'}}>連結已經隱藏 </span>**
+請在LINE記事本搜尋，「鹿港中心108~112年案件分析」
 :::
 :::tip 8/30日更新
 鹿港中心108~112年案件分析試算表新增點選篩選功能  
