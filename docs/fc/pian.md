@@ -26,7 +26,7 @@ toc_max_heading_level: 6
 為了讓部分統計業務能夠自動並雲端化  
 特建此表供彈性運用  
 
-<iframe
+<!-- <iframe
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGPgiy0iLwcE8nAM9uSJXA3Qxwm4adAWamnRimYrFIvx2HSXjc17OxG9FhK8nVeRNV1-htbVgGsaqO/pubhtml?gid=675195323&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%"
   height="300px"
@@ -43,4 +43,4 @@ toc_max_heading_level: 6
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGPgiy0iLwcE8nAM9uSJXA3Qxwm4adAWamnRimYrFIvx2HSXjc17OxG9FhK8nVeRNV1-htbVgGsaqO/pubhtml?gid=1112124611&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%"
   height="500px"
-/>
+/> -->
