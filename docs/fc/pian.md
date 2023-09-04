@@ -8,7 +8,7 @@ toc_max_heading_level: 6
 :::caution 線上編輯連結
 ### <span style={{color: 'blue'}}>Restricted Data Security Policy </span>  
 **<span style={{color: 'red'}}>連結已經隱藏 </span>**
-請在LINE記事本搜尋，「鹿港中心派案概況表」
+請在LINE記事本搜尋，「***鹿港中心派案概況表***」
 :::
 
 :::tip 8/30日更新
