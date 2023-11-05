@@ -81,14 +81,14 @@ const config = {
           src: "img/me.webp",
         },
         items: [
-          /*
+          
           {
             type: "doc",
-            docId: "/category/課程檔案",
+            docId: "/category/天長地久短文集",
             position: "left",
-            label: "課程檔案",
+            label: "天長地久",
           },
-          */
+          
           // {
           //   type: "doc",
           //   docId: "chsc/intro",
