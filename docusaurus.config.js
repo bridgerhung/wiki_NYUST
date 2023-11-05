@@ -84,7 +84,7 @@ const config = {
           
           {
             type: "doc",
-            docId: "/category/天長地久短文集",
+            docId: "/category/天長地久",
             position: "left",
             label: "天長地久",
           },
