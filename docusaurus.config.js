@@ -145,8 +145,8 @@ const config = {
         copyright: `© ${new Date().getFullYear()} Bridger Hung`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
       /*
       announcementBar: {
