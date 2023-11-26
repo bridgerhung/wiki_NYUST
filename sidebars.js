@@ -189,65 +189,65 @@ const sidebars = {
     },
   ],
   
-  chsc: [
-    {
-      type: "category",
-      label: "二階歷程檔案",
-      link: {
-        type: "doc",
-        id: "chsc/intro",
-      },
-      collapsed: true,
-      items: [
-        "chsc/sum",
-        "chsc/life",
-        "chsc/epfo",
-        "chsc/備審資料示範",
-        "chsc/官方資料",
-        "chsc/指定項目甄試筆記",
-      ],
-    },
-    {
-      type: "link",
-      label: "附錄-成功的反思", // The link label
-      href: "/book/suc", // The internal path
-    },
-    {
-      type: "link",
-      label: "附錄-大學分組作業怎麼辦", // The link label
-      href: "/book/inspir", // The internal path
-    },
-  ],
-  fc: [
-    {
-      type: "category",
-      label: "社會福利中心-名琮成果打包",
-      link: {
-        type: "doc",
-        id: "fc/intro",
-      },
-      collapsed: true,
-      items: [
-        "fc/Inventory",
-        "fc/jipo",
-        {
-          type: 'category',
-          label: '區域聯繫會議',
-          link: {
-            type: 'doc',
-            id: 'fc/community',
-          },
-          items: [
-            'fc/post',
-            'fc/game'
-          ],
-        },
-        "fc/statistic",
-        "fc/pian",
-        "fc/real_stat"
-      ],
-    }
-  ]
+  // chsc: [
+  //   {
+  //     type: "category",
+  //     label: "二階歷程檔案",
+  //     link: {
+  //       type: "doc",
+  //       id: "chsc/intro",
+  //     },
+  //     collapsed: true,
+  //     items: [
+  //       "chsc/sum",
+  //       "chsc/life",
+  //       "chsc/epfo",
+  //       "chsc/備審資料示範",
+  //       "chsc/官方資料",
+  //       "chsc/指定項目甄試筆記",
+  //     ],
+  //   },
+  //   {
+  //     type: "link",
+  //     label: "附錄-成功的反思", // The link label
+  //     href: "/book/suc", // The internal path
+  //   },
+  //   {
+  //     type: "link",
+  //     label: "附錄-大學分組作業怎麼辦", // The link label
+  //     href: "/book/inspir", // The internal path
+  //   },
+  // ],
+  // fc: [
+  //   {
+  //     type: "category",
+  //     label: "社會福利中心-名琮成果打包",
+  //     link: {
+  //       type: "doc",
+  //       id: "fc/intro",
+  //     },
+  //     collapsed: true,
+  //     items: [
+  //       "fc/Inventory",
+  //       "fc/jipo",
+  //       {
+  //         type: 'category',
+  //         label: '區域聯繫會議',
+  //         link: {
+  //           type: 'doc',
+  //           id: 'fc/community',
+  //         },
+  //         items: [
+  //           'fc/post',
+  //           'fc/game'
+  //         ],
+  //       },
+  //       "fc/statistic",
+  //       "fc/pian",
+  //       "fc/real_stat"
+  //     ],
+  //   }
+  // ]
 };
 
 module.exports = sidebars;
