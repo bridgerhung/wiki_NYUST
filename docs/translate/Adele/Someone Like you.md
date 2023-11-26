@@ -8,7 +8,16 @@ tags:
   - 21
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hLQl3WQQoQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  width="100%"
+  height={315}
+  src="https://www.youtube.com/embed/hLQl3WQQoQ0"
+  title="YouTube video player"
+  frameBorder={0}
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowFullScreen=""
+/>
+
 
 >「像你一樣的人」「一個喜歡你的人」
 
@@ -92,7 +101,7 @@ Bound by the surprise of our glory days
 
 光輝的歲月成長的喜悅構成了我們的紐帶
 
-{bridge}
+## bridge
 
 Nothing compares, no worries or cares
 

@@ -22,8 +22,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "zh-Hant",
-    locales: ["zh-Hant"],
+    defaultLocale: "zh-Hans",
+    locales: ["zh-Hans"],
   },
   markdown: {
     mermaid: true,
@@ -57,9 +57,9 @@ const config = {
             blogSidebarTitle: '日記',
            },
         
-        theme: {
-          customCss: require.resolve("./src/css/custom.css"),
-        },
+           theme: {
+            customCss: './src/css/custom.css',
+          },
         gtag: {
           trackingID: "G-7P0XZ2SGPX",
           anonymizeIP: false,
@@ -158,4 +158,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+export default config;
