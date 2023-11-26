@@ -1,5 +1,8 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
@@ -7,34 +10,38 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: "Bridger's Wiki",
   tagline: "課程、翻譯、閱讀心得",
-  url: "https://wiki.brid.gq",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/me.webp",
+
+  // Set the production url of your site here
+  url: 'https://wiki.brid.gq',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "bridgerhung", // Usually your GitHub org/user name.
-  projectName: "wiki_NYUST", // Usually your repo name.
+  organizationName: 'bridgerhung', // Usually your GitHub org/user name.
+  projectName: 'wiki_NYUST', // Usually your repo name.
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "zh-Hans",
-    locales: ["zh-Hans"],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
   markdown: {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-  
-  
 
-  presets: [
+
+   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -57,9 +64,9 @@ const config = {
             blogSidebarTitle: '日記',
            },
         
-           theme: {
-            customCss: './src/css/custom.css',
-          },
+        theme: {
+          customCss: require.resolve("./src/css/custom.css"),
+        },
         gtag: {
           trackingID: "G-7P0XZ2SGPX",
           anonymizeIP: false,
@@ -67,6 +74,7 @@ const config = {
       }),
     ],
   ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -137,8 +145,8 @@ const config = {
         copyright: `© ${new Date().getFullYear()} Bridger Hung`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
       /*
       announcementBar: {
