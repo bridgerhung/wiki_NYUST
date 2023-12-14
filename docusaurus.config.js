@@ -91,7 +91,7 @@ const config = {
           
           {
             type: "doc",
-            docId: "/category/天長地久",
+            docId: "/category/天長地久散文集",
             position: "left",
             label: "天長地久短文集",
           },
