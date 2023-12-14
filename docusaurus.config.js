@@ -91,9 +91,9 @@ const config = {
           
           {
             type: "doc",
-            docId: "/category/天長地久散文集",
+            docId: "/category/天長地久短文集",
             position: "left",
-            label: "天長地久短文集",
+            label: "天長地久",
           },
           
           // {
@@ -120,7 +120,7 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
-           {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
+          //  {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
           
         ],
       },
