@@ -120,7 +120,7 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
-          // {to: 'blog', label: 'Blog', position: 'left'}, // or position: 'right'
+           {to: 'blog', label: '天長地久', position: 'left'}, // or position: 'right'
           
         ],
       },

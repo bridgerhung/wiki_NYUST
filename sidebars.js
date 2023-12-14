@@ -174,10 +174,10 @@ const sidebars = {
   long_live: [
     {
       type: "category",
-      label: "天長地久",
+      label: "天長地久散文集",
       link: {
         type: "generated-index",
-        title: "天長地久",
+        title: "長地久天",
         description: "天長地久短文集",
       },
       items: [
