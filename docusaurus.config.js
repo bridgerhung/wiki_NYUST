@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -13,33 +13,32 @@ const config = {
   favicon: "img/me.webp",
 
   // Set the production url of your site here
-  url: 'https://wiki.brid.gq',
+  url: "https://wiki.brid.gq",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'bridgerhung', // Usually your GitHub org/user name.
-  projectName: 'wiki_NYUST', // Usually your repo name.
+  organizationName: "bridgerhung", // Usually your GitHub org/user name.
+  projectName: "wiki_NYUST", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hant',
-    locales: ['zh-Hant'],
+    defaultLocale: "zh-Hant",
+    locales: ["zh-Hant"],
   },
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid'],
+  themes: ["@docusaurus/theme-mermaid"],
 
-
-   presets: [
+  presets: [
     [
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
@@ -53,17 +52,17 @@ const config = {
           // Remove this to remove the "edit this page" links.
         },
         blog: {
-            // routeBasePath: '/',
-            path: 'blog',
-            postsPerPage: 'ALL',
-            feedOptions: {
-              type: 'all',
-              copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
-            },
-            blogSidebarCount: 'ALL',
-            blogSidebarTitle: '日記',
-           },
-        
+          // routeBasePath: '/',
+          path: "blog",
+          postsPerPage: "ALL",
+          feedOptions: {
+            type: "all",
+            copyright: `Copyright © ${new Date().getFullYear()} Bridger`,
+          },
+          blogSidebarCount: "ALL",
+          blogSidebarTitle: "日記",
+        },
+
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -74,7 +73,6 @@ const config = {
       }),
     ],
   ],
-
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -88,14 +86,13 @@ const config = {
           src: "img/me.webp",
         },
         items: [
-          
-          {
-            type: "doc",
-            docId: "/category/天長地久散文集",
-            position: "left",
-            label: "天長地久",
-          },
-          
+          // {
+          //   type: "doc",
+          //   docId: "/category/天長地久散文集",
+          //   position: "left",
+          //   label: "天長地久",
+          // },
+
           // {
           //   type: "doc",
           //   docId: "chsc/intro",
@@ -121,7 +118,6 @@ const config = {
             label: "最喜愛的歌曲",
           },
           //  {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
-          
         ],
       },
 
@@ -129,15 +125,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: '其他平台',
+            title: "其他平台",
             items: [
               {
-                label: 'Youtube',
-                to: 'https://www.youtube.com/@bridger.h',
+                label: "Youtube",
+                to: "https://www.youtube.com/@bridger.h",
               },
               {
-                label: 'odysee',
-                to: 'https://odysee.com/@BridgerH:8',
+                label: "odysee",
+                to: "https://odysee.com/@BridgerH:8",
               },
             ],
           },
