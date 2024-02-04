@@ -86,12 +86,12 @@ const config = {
           src: "img/me.webp",
         },
         items: [
-          // {
-          //   type: "doc",
-          //   docId: "/category/天長地久散文集",
-          //   position: "left",
-          //   label: "天長地久",
-          // },
+          {
+            type: "doc",
+            docId: "/category/天長地久散文集",
+            position: "left",
+            label: "天長地久",
+          },
 
           // {
           //   type: "doc",
