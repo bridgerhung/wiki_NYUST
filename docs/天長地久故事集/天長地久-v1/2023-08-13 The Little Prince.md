@@ -8,7 +8,7 @@ date: 2023-08-13T15:42
 ---
 
 
-![IMG_20220115_185317.jpg](https://e.brid.cf/i/2023/08/13/phqc2e-2.webp)
+![IMG_20220115_185317.jpg](https://e.brid.pw/i/2023/08/13/phqc2e-2.webp)
 
 <!-- truncate -->
 
