@@ -154,9 +154,9 @@ const config = {
       },
       */
       algolia: {
-        appId: "5S4I7NT90Z",
-        apiKey: "b5ddefaca62917d1e710774fdab76ded",
-        indexName: "brid",
+        appId: "S9140XTKS2",
+        apiKey: "7f07bdf93319c81feaa51d5f95f5f4c1",
+        indexName: "bridwiki",
         contextualSearch: true,
       },
     }),
