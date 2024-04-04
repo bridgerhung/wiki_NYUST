@@ -86,19 +86,7 @@ const config = {
           src: "img/me.webp",
         },
         items: [
-          // {
-          //   type: "doc",
-          //   docId: "/category/天長地久散文集",
-          //   position: "left",
-          //   label: "天長地久",
-          // },
 
-          // {
-          //   type: "doc",
-          //   docId: "chsc/intro",
-          //   position: "left",
-          //   label: "二階歷程檔案",
-          // },
           {
             type: "doc",
             docId: "/category/書籍介紹",
@@ -117,6 +105,20 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
+          {
+            type: "doc",
+            docId: "/category/天長地久散文集",
+            position: "left",
+            label: "天長地久",
+          },
+
+          {
+            type: "doc",
+            docId: "/category/面對面對話",
+            position: "left",
+            label: "面對面對話",
+          }
+
           //  {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
         ],
       },
