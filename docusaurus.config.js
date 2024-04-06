@@ -86,7 +86,6 @@ const config = {
           src: "img/me.webp",
         },
         items: [
-
           {
             type: "doc",
             docId: "/category/書籍介紹",
@@ -114,10 +113,10 @@ const config = {
 
           {
             type: "doc",
-            docId: "/category/面對面對話",
+            docId: "/category/真誠相待",
             position: "left",
-            label: "面對面對話",
-          }
+            label: "真誠相待",
+          },
 
           //  {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
         ],
