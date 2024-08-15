@@ -104,12 +104,12 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
-          {
-            type: "doc",
-            docId: "/category/天長地久散文集",
-            position: "left",
-            label: "天長地久",
-          },
+          // {
+          //   type: "doc",
+          //   docId: "/category/天長地久散文集",
+          //   position: "left",
+          //   label: "天長地久",
+          // },
 
           // {
           //   type: "doc",
@@ -128,14 +128,14 @@ const config = {
           {
             title: "其他平台",
             items: [
-              {
-                label: "Youtube",
-                to: "https://www.youtube.com/@bridger.h",
-              },
-              {
-                label: "odysee",
-                to: "https://odysee.com/@BridgerH:8",
-              },
+              // {
+              //   label: "Youtube",
+              //   to: "https://www.youtube.com/@bridger.h",
+              // },
+              // {
+              //   label: "odysee",
+              //   to: "https://odysee.com/@BridgerH:8",
+              // },
             ],
           },
         ],
