@@ -121,7 +121,7 @@ const config = {
             label: "真誠相待",
           },
 
-          { to: "blog", label: "舊版-天長地久", position: "left" }, // or position: 'right'
+          // { to: "blog", label: "舊版-天長地久", position: "left" }, // or position: 'right'
         ],
       },
 
