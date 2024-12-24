@@ -107,21 +107,21 @@ const config = {
             position: "left",
             label: "最喜愛的歌曲",
           },
-          // {
-          //   type: "doc",
-          //   docId: "/category/天長地久散文集",
-          //   position: "left",
-          //   label: "天長地久",
-          // },
+          {
+            type: "doc",
+            docId: "/category/天長地久散文集",
+            position: "left",
+            label: "天長地久",
+          },
 
-          // {
-          //   type: "doc",
-          //   docId: "/category/真誠相待",
-          //   position: "left",
-          //   label: "真誠相待",
-          // },
+          {
+            type: "doc",
+            docId: "/category/真誠相待",
+            position: "left",
+            label: "真誠相待",
+          },
 
-          //  {to: 'blog', label: '舊版-天長地久', position: 'left'}, // or position: 'right'
+          { to: "blog", label: "舊版-天長地久", position: "left" }, // or position: 'right'
         ],
       },
 
