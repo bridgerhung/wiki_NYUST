@@ -31,3 +31,4 @@ jobs:
                   -e API_KEY=$API_KEY \
                   -e CONFIG="${CONFIG}" \
                   algolia/docsearch-scraper
+        shell: /usr/bin/bash -e {0}
