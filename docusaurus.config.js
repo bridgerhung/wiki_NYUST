@@ -11,9 +11,12 @@ const config = {
   title: "Bridger's Wiki",
   tagline: "課程、翻譯、閱讀心得",
   favicon: "img/me.webp",
+  future: {
+    experimental_faster: true,
+  },
 
   // Set the production url of your site here
-  url: "https://wiki.brid.gq",
+  url: "https://wiki.brid.pw",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
